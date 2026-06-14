@@ -1,5 +1,9 @@
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Send, MessageCircle, Clock } from 'lucide-react';
+import emailjs from "@emailjs/browser";
+const serviceId = import.meta.env.VITE_SERVICE_ID;
+const templateId = import.meta.env.VITE_TEMPLATE_ID;
+const publicKey = import.meta.env.VITE_PUBLIC_KEY;
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -9,11 +13,18 @@ const Contact = () => {
     message: ''
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     console.log('Form submitted:', formData);
-    // Handle form submission here
-    alert('Thank you for your message! We\'ll get back to you soon.');
+    emailjs.sendForm(
+      serviceId,
+      templateId,
+      e.currentTarget,
+      publicKey
+    )
+      .then(() => alert("Message sent successfully!"))
+      .catch(() => alert("Failed to send message"));
+    // alert('Thank you for your message! We\'ll get back to you soon.');
     setFormData({ name: '', email: '', subject: '', message: '' });
   };
 
@@ -41,7 +52,7 @@ const Contact = () => {
           <div className="lg:col-span-1">
             <div className="bg-gradient-to-br from-blue-600 to-purple-600 rounded-2xl p-8 text-white h-full">
               <h3 className="text-2xl font-bold mb-8">Contact Information</h3>
-              
+
               <div className="space-y-6 mb-8">
                 <div className="flex items-start">
                   <Phone className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
@@ -50,7 +61,7 @@ const Contact = () => {
                     <p className="opacity-90">+91 7583869015</p>
                   </div>
                 </div>
-                
+
                 <div className="flex items-start">
                   <Mail className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
@@ -58,7 +69,7 @@ const Contact = () => {
                     <p className="opacity-90">info@tripwithme.in</p>
                   </div>
                 </div>
-                
+
                 <div className="flex items-start">
                   <MapPin className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
@@ -76,7 +87,7 @@ const Contact = () => {
                 </div>
               </div>
 
-              <div className="border-t border-white/20 pt-8">
+              {/* <div className="border-t border-white/20 pt-8">
                 <h4 className="font-semibold mb-4">Follow Us</h4>
                 <div className="flex space-x-4">
                   <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer">
@@ -92,7 +103,7 @@ const Contact = () => {
                     <span className="text-sm font-bold">ig</span>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
@@ -116,7 +127,7 @@ const Contact = () => {
                       placeholder="Your full name"
                     />
                   </div>
-                  
+
                   <div>
                     <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
                       Email Address
@@ -187,14 +198,25 @@ const Contact = () => {
                 <MessageCircle className="h-8 w-8 text-blue-600 mx-auto mb-4" />
                 <h4 className="font-bold text-gray-900 mb-2">Live Chat</h4>
                 <p className="text-gray-600 text-sm mb-4">Get instant answers to your questions</p>
-                <button className="text-blue-600 font-semibold hover:text-blue-700">Start Chat</button>
+                <button className="text-blue-600 font-semibold hover:text-blue-700"><a
+                  href={`https://wa.me/917583869015?text=${encodeURIComponent(
+                    `Hi TripWithMe 👋, I am interested in your travel packages. Please share the details`
+                  )}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                // className="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-lg hover:scale-110 transition"
+                >
+                  Start Chat
+                </a></button>
               </div>
-              
+
               <div className="bg-green-50 rounded-xl p-6 text-center">
                 <Phone className="h-8 w-8 text-green-600 mx-auto mb-4" />
                 <h4 className="font-bold text-gray-900 mb-2">Call Us</h4>
                 <p className="text-gray-600 text-sm mb-4">Speak directly with our travel experts</p>
-                <button className="text-green-600 font-semibold hover:text-green-700">Call Now</button>
+                <button className="text-green-600 font-semibold hover:text-green-700">
+                  <a href="tel:+919876543210">Call Now</a>
+                </button>
               </div>
             </div>
           </div>

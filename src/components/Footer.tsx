@@ -1,5 +1,7 @@
 import React from 'react';
 import { MapPin, Mail, Phone, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
+import url from '../assets/urls/urls.json';
+import logo from '../assets/images/logo.png';
 
 const Footer = () => {
   return (
@@ -9,7 +11,8 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 lg:col-span-2">
             <div className="flex items-center mb-6">
-              <MapPin className="h-8 w-8 text-blue-400 mr-2" />
+              {/* <MapPin className="h-8 w-8 text-blue-400 mr-2" /> */}
+              <img src={logo} alt="" className='w-16' />
               <span className="text-2xl font-bold">TripWithMe</span>
             </div>
             <p className="text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
@@ -17,16 +20,16 @@ const Footer = () => {
               discover hidden gems, and create unforgettable memories around the world.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="bg-blue-600 p-3 rounded-lg hover:bg-blue-700 transition-colors">
+              <a href={url.facebook} target='_blank' className="bg-blue-600 p-3 rounded-lg hover:bg-blue-700 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="bg-blue-400 p-3 rounded-lg hover:bg-blue-500 transition-colors">
+              {/* <a href="#" className="bg-blue-400 p-3 rounded-lg hover:bg-blue-500 transition-colors">
                 <Twitter className="h-5 w-5" />
-              </a>
-              <a href="#" className="bg-pink-600 p-3 rounded-lg hover:bg-pink-700 transition-colors">
+              </a> */}
+              <a href={url.instagram} target='_blank' className="bg-pink-600 p-3 rounded-lg hover:bg-pink-700 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="bg-blue-800 p-3 rounded-lg hover:bg-blue-900 transition-colors">
+              <a href="#" target='_blank' className="bg-blue-800 p-3 rounded-lg hover:bg-blue-900 transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
             </div>
@@ -60,7 +63,7 @@ const Footer = () => {
         </div>
 
         {/* Newsletter Signup */}
-        <div className="border-t border-gray-800 mt-12 pt-12">
+        {/* <div className="border-t border-gray-800 mt-12 pt-12">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="text-2xl font-bold mb-4">Stay Updated</h3>
@@ -79,22 +82,22 @@ const Footer = () => {
               </button>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Contact Info */}
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start">
               <Mail className="h-5 w-5 text-blue-400 mr-2" />
-              <span className="text-gray-300">hello@TripWithMe.com</span>
+              <span className="text-gray-300">tripwithme.indore@gmail.com</span>
             </div>
             <div className="flex items-center justify-center md:justify-start">
               <Phone className="h-5 w-5 text-blue-400 mr-2" />
-              <span className="text-gray-300">+1 (555) 123-4567</span>
+              <span className="text-gray-300">+91 7583869015</span>
             </div>
             <div className="flex items-center justify-center md:justify-start">
               <MapPin className="h-5 w-5 text-blue-400 mr-2" />
-              <span className="text-gray-300">San Francisco, CA</span>
+              <span className="text-gray-300">Indore (MP), India</span>
             </div>
           </div>
         </div>
@@ -102,7 +105,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 TripWithMe. All rights reserved.
+            © {new Date().getFullYear()} TripWithMe. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>

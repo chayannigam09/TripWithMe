@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, MapPin, User, ShoppingBag } from 'lucide-react';
+import logo from '../assets/images/logo.png';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -10,7 +11,8 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <div className="flex items-center">
-            <MapPin className="h-8 w-8 text-blue-600 mr-2" />
+            {/* <MapPin className="h-8 w-8 text-blue-600 mr-2" /> */}
+            <img src={logo} alt="" className='w-16 mr-2' />
             <span className="text-2xl font-bold text-gray-900">TripWithMe</span>
           </div>
 
