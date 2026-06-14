@@ -71,7 +71,7 @@ const Contact = () => {
                   <Clock className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-semibold">Support Hours</p>
-                    <p className="opacity-90">24/7 Global Support</p>
+                    <p className="opacity-90">24/7 Support</p>
                   </div>
                 </div>
               </div>
