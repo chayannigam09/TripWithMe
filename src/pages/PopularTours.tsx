@@ -3,6 +3,7 @@ import TourCard from "../components/tours/TourCard";
 import { tours } from "../tours";
 
 export default function PopularTours() {
+  console.log(tours)
   return (
     <div className="bg-slate-950 min-h-screen">
       <section className="py-10 text-center">

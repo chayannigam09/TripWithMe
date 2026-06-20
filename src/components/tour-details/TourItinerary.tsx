@@ -63,7 +63,7 @@ export default function TourItinerary({ itinerary }: Props) {
                 </button>
 
                 <div
-                  className={`transition-all duration-300 overflow-hidden ${
+                  className={`transition-all duration-700 overflow-hidden ${
                     isOpen
                       ? "max-h-[500px]"
                       : "max-h-0"

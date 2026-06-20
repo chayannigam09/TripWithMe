@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
 import { Menu, X, MapPin, User, ShoppingBag } from 'lucide-react';
 import logo from '../assets/images/logo.png';
+import { useNavigate } from 'react-router-dom';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const navigate = useNavigate();
 
   return (
     <header className="bg-white shadow-lg sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          {/* Logo */}
-          <div className="flex items-center">
-            {/* <MapPin className="h-8 w-8 text-blue-600 mr-2" /> */}
+          <div className="flex items-center cursor-pointer"  onClick={() => navigate("/")}>
             <img src={logo} alt="" className='w-16 mr-2' />
             <span className="text-2xl font-bold text-gray-900">TripWithMe</span>
           </div>
