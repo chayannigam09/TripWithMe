@@ -7,6 +7,8 @@ import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import { FaWhatsapp } from "react-icons/fa";
+import {tours} from "../tours";
+import HomePopularTours from "../components/HomePopularTour";
 
 const Home = () => {
   return (
@@ -14,7 +16,8 @@ const Home = () => {
       {/* <Header /> */}
       <Hero />
       <Services />
-      <Destinations />
+      {/* <Destinations /> */}
+      <HomePopularTours tours={tours} />
       <About />
       <Testimonials />
       <Contact />
