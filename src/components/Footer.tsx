@@ -2,12 +2,13 @@ import React from 'react';
 import { MapPin, Mail, Phone, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 import url from '../assets/urls/urls.json';
 import logo from '../assets/images/logo.png';
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Company Info */}
           <div className="col-span-1 lg:col-span-2">
             <div className="flex items-center mb-6">
@@ -16,7 +17,7 @@ const Footer = () => {
               <span className="text-2xl font-bold">TripWithMe</span>
             </div>
             <p className="text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
-              Revolutionizing travel through technology. Connect with fellow adventurers, 
+              Revolutionizing travel through technology. Connect with fellow adventurers,
               discover hidden gems, and create unforgettable memories around the world.
             </p>
             <div className="flex space-x-4">
@@ -39,17 +40,64 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-6">Quick Links</h3>
             <ul className="space-y-4">
-              <li><a href="#home" className="text-gray-300 hover:text-white transition-colors">Home</a></li>
-              <li><a href="#destinations" className="text-gray-300 hover:text-white transition-colors">Destinations</a></li>
-              <li><a href="#packages" className="text-gray-300 hover:text-white transition-colors">Travel Packages</a></li>
-              <li><a href="#about" className="text-gray-300 hover:text-white transition-colors">About Us</a></li>
-              <li><a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Blog</a></li>
+              <li>
+                <Link
+                  to="/"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Home
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  to="/popular-tours"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Destinations
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  to="/popular-tours"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Travel Packages
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  to="/about"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  About Us
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  to="/contact"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Contact
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  to="/policies"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Policy
+                </Link>
+              </li>
             </ul>
           </div>
 
           {/* Services */}
-          <div>
+          {/* <div>
             <h3 className="text-xl font-bold mb-6">Services</h3>
             <ul className="space-y-4">
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Flight Booking</a></li>
@@ -59,7 +107,7 @@ const Footer = () => {
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Group Travel</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white transition-colors">24/7 Support</a></li>
             </ul>
-          </div>
+          </div> */}
         </div>
 
         {/* Newsletter Signup */}

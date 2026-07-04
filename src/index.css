@@ -5,6 +5,14 @@
 
 
 
+@theme {
+  --color-primary-green: #F0FDF4;
+}
+
+
+body{
+  background-color: #F9FAFB;
+}
 /* Chrome, Edge, Safari */
 body::-webkit-scrollbar {
   width: 6px;
@@ -15,5 +23,20 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: #60a5fa; /* Tailwind blue-400 */
   border-radius: 6px;
+}
+.popular-tour-slider {
+  padding-bottom: 50px;
+}
+
+.popular-tour-slider .swiper-pagination {
+  bottom: 0 !important;
+}
+
+.popular-tour-slider .swiper-pagination-bullet {
+  background: #64748b;
+}
+
+.popular-tour-slider .swiper-pagination-bullet-active {
+  background: #3b82f6;
 }
 

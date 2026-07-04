@@ -2,7 +2,17 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      keyframes: {
+        pulseScale: {
+          '0%, 100%': { transform: 'scale(1)' },
+          '50%': { transform: 'scale(1.08)' },
+        },
+      },
+      animation: {
+        pulseScale: 'pulseScale 1.5s ease-in-out infinite',
+      },
+    },
   },
   plugins: [require('tailwind-scrollbar'),],
 };

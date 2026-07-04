@@ -1,0 +1,182 @@
+{
+  "id": 2,
+  "slug": "maheshwar",
+  "title": "Jam Gate | Maheshwar | Sahastradhara",
+  "location": "Maheshwar, Madhya Pradesh",
+  "duration": "1 Day",
+  "price": 999,
+  "rating": 4.8,
+  "thumbnail": "/tours/maheshwar/1.jpg",
+  "gallery": [
+    "/tours/maheshwar/1.jpg",
+    "/tours/maheshwar/2.jpg",
+    "/tours/maheshwar/3.jpg",
+    "/tours/maheshwar/4.jpg",
+    "/tours/maheshwar/5.jpg",
+    "/tours/maheshwar/06.jpg",
+    "/tours/maheshwar/07.jpg",
+    "/tours/maheshwar/08.jpg"
+  ],
+  "highlights": [
+    "Jam Gate",
+    "Maheshwar Fort",
+    "Narmada Boating",
+    "Sahastradhara",
+    "Photography",
+    "Waterfalls"
+  ],
+
+  "overview": "Escape the city for a perfect one-day trip to Jam Gate, Maheshwar, and Sahastradhara, blending scenic views, heritage charm, and serene nature.",
+
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Jam Gate • Maheshwar • Sahastradhara",
+      "activities": [
+        "06:00 AM – Departure from Indore.",
+        "08:00 AM – Breakfast stop near Jam Gate.",
+        "Explore Jam Gate and enjoy panoramic valley views.",
+        "10:30 AM – Proceed towards Maheshwar.",
+        "Visit Ahilyabai Fort and Narmada Ghats.",
+        "Enjoy boating on the Narmada River (optional, self-paid).",
+        "02:00 PM – Lunch at Maheshwar.",
+        "03:00 PM – Departure for Sahastradhara.",
+        "Explore streams, waterfalls, and nature trails.",
+        "05:30 PM – Tea and snacks break.",
+        "06:30 PM – Return journey to Indore.",
+        "08:30 PM – Arrival in Indore."
+      ]
+    }
+  ],
+
+  "inclusions": [
+    "Transportation from Indore",
+    "Breakfast",
+    "Lunch",
+    "Trip Coordinator",
+    "Basic First Aid",
+    "Sightseeing as per itinerary",
+    "Photography Assistance"
+  ],
+
+  "exclusions": [
+    "Boating Charges",
+    "Personal Expenses",
+    "Travel Insurance",
+    "Anything not mentioned in inclusions"
+  ],
+
+  "thingsToCarry": [
+    {
+      "title": "Clothing",
+      "description":
+        "Comfortable clothes suitable for a day outing."
+    },
+    {
+      "title": "Footwear",
+      "description":
+        "Comfortable sports shoes or sandals."
+    },
+    {
+      "title": "Water Bottle",
+      "description":
+        "Carry sufficient drinking water for the journey."
+    },
+    {
+      "title": "Documents",
+      "description":
+        "Valid government-issued photo ID."
+    }
+  ],
+
+  "thingsToKnow": [
+    {
+      "title": "Day Trip",
+      "description":
+        "This is a same-day return trip from Indore."
+    },
+    {
+      "title": "Boating",
+      "description":
+        "Boating charges are not included and must be paid separately."
+    },
+    {
+      "title": "Weather",
+      "description":
+        "Weather near Sahastradhara may vary, carry light rain protection during monsoon."
+    }
+  ],
+  "importantNotes": [
+        {
+            "type": "danger",
+            "text": "Booking is non-refundable after confirmation."
+        },
+        {
+            "type": "warning",
+            "text": "Trips run on schedule. Please report on time, Itinerary may change due to weather conditions."
+        },
+        {
+            "type": "success",
+            "text": "Respect local culture and nature."
+        },
+        {
+            "type": "info",
+            "text": "Check-in and check-out timings depend on hotel policy, Follow your trip captain's instructions."
+        }
+    ],
+  "policies": [
+    {
+      "title": "Booking Policy",
+      "content":
+        "Full payment is required to confirm your booking."
+    },
+    {
+      "title": "Cancellation Policy",
+      "content":
+        "Bookings once confirmed are non-refundable."
+    },
+    {
+      "title": "Transport Breakdown",
+      "content":
+        "Participants may need to wait until the vehicle is repaired."
+    },
+    {
+      "title": "Environmental Policy",
+      "content":
+        "Please help maintain cleanliness and respect nature."
+    },
+    {
+      "title": "Important Note",
+      "content":
+        "The itinerary may change due to weather, road conditions, or operational reasons."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is breakfast included?",
+      "answer":
+        "No, breakfast and meals are excluded unless specifically mentioned."
+    },
+    {
+      "question": "Is boating included?",
+      "answer":
+        "No, boating charges are to be paid directly at the location."
+    },
+    {
+      "question": "Can beginners join this trip?",
+      "answer":
+        "Yes, this trip is suitable for all age groups and beginners."
+    },
+    {
+      "question": "What is the reporting point?",
+      "answer":
+        "The reporting point will be shared after booking confirmation."
+    }
+  ],
+  "batches": [
+    "05 Jul 2026",
+    "12 Jul 2026",
+    "19 Jul 2026",
+    "26 Jul 2026"
+  ]
+}

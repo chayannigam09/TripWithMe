@@ -1,0 +1,266 @@
+{
+    "id": 1,
+    "slug": "pachmarhi",
+    "title": "Pachmarhi Weekend Getaway",
+    "location": "Pachmarhi, Madhya Pradesh",
+    "duration": "2 Nights / 3 Days",
+    "price": 4999,
+    "rating": 4.8,
+    "reviews": 120,
+    "pickup": "Indore",
+    "thumbnail": "/tours/pachmarhi/02.jpg",
+    "gallery": [
+        "/tours/pachmarhi/1.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/3.jpg",
+        "/tours/pachmarhi/4.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/02.jpg",
+        "/tours/pachmarhi/02.jpg"
+    ],
+    "highlights": [
+        "Explore the Queen of Satpura",
+        "Witness breathtaking sunset at Dhoopgarh",
+        "Visit ancient Pandav Caves",
+        "Enjoy scenic Bee Falls",
+        "Gypsy sightseeing included",
+        "Comfortable deluxe hotel stay"
+    ],
+    "overview": "Embark on a magical group getaway to Pachmarhi, the Queen of Satpura, with TripWithMe as your trusted companion. Nestled in the heart of the Satpura Range, this scenic retreat offers lush forests, serene waterfalls, and breathtaking views. Kick off the adventure with a lively pool party with DJ, followed by a thrilling gypsy safari through the wilds of Satpura. Evenings come alive with music nights, live performances, games, and unforgettable bonding under the stars. Explore iconic spots like Bee Fall, Dhoopgarh, Jata Shankar, and the beautiful Chouragarh Mahadev trek, all while we handle the details. Let TripWithMe guide you through a trip full of fun, adventure, and lifelong memories.",
+    "itinerary": [
+        {
+            "day": 1,
+            "title": "Departure from Indore",
+            "activities": [
+                "As twilight descends, a sense of adventure stirs in the air — the journey to Pachmarhi is about to unfold.",
+                "Connect with your fellow travelers and get ready to dive into an unforgettable escape.",
+                "Leave behind the familiar sights as we set out on our overnight expedition.",
+                "Warm introductions and group bonding kick off the experience.",
+                "Indore: 10:00 PM – Radisson Square",
+                "Bhopal: 3:30 AM – Lal Ghati & ISBT",
+                "Pipariya: 6:00 AM"
+            ]
+        },
+        {
+            "day": 2,
+            "title": "Arrival at Pachmarhi | Satpura exploration",
+            "activities": [
+                "Awaken to a refreshing new day in the enchanting Queen of Satpura – Pachmarhi.",
+                "Kickstart your morning with a wholesome breakfast to gear up for the day’s adventures.",
+                "Dive into some fun with an exciting pool party to set the vibe!",
+                "Proceed with the check-in process at the hotel (early check-in subject to availability), freshen up, and prepare for a day of exploration.",
+                "Set off for a scenic journey through Pachmarhi’s iconic gems: Choragarh Mahadev (Optional, depending on time), Bada Mahadev, Gupt Mahadev, Green Valley, Pachmarhi Lake",
+                "As evening approaches, relish a delightful dinner and unwind with an overnight stay at the hotel.✨ Later, enjoy a lively music night and engaging group activities at the resort.",
+                "Note: Sightseeing is subject to availability. we are not liable for missed spots due to factors such as time constraints, weather, group delays, or mechanical issues."
+            ]
+        },
+        {
+            "day": 3,
+            "title": "Adventure continues | Gyspsy safari | waterfall | sunset point",
+            "activities": [
+                "Begin your day with an early wake-up call and energize yourself with a delightful breakfast.",
+                "Check out from the resort and gather for a short trip briefing before diving into the day's excitement.",
+                "Get ready for a thrilling day of adventure with an exhilarating gypsy ride through the serene beauty of Pachmarhi.",
+                "Prepare to explore nature’s marvels and iconic landmarks, including: Jata Shankar, Pandav Caves, Ramya Kund, Bee Fall, Jal Gali, Reechgarh, Adbhut Drashya (Amazing Views), Forest Museum, Dhoopgarh for breathtaking sunrise and sunset points,And unwind at the vibrant hippie cafes in the Pachmarhi market.",
+                "Wrap up your day with a delicious dinner, then pack up your bags—full of memories—and prepare for your journey back home."
+            ]
+        },
+        {
+            "day": 4,
+            "title": "Arrival at your home with lots of memories with strangers",
+            "activities": [
+                "Drop Points: Bhopal: 2:00 AM and Indore: 6:30 AM",
+                "Though the trip comes to an end, the memories will stay with you forever.",
+                "You’re now officially a #TravelTrekker and a proud part of Central India’s fastest-growing and coolest travel community!",
+                "We look forward to seeing you on many more exciting adventures ahead.",
+                "Until then, remember our motto: Work. Travel. Repeat. 🌍✈️💼"
+            ]
+        }
+    ],
+    "inclusions": [
+        "Trip Captain: Experienced Trip Captain (Only IF 12+ Members In A group)",
+        "Accommodation: 1 Night Accommodation in Resort/Hotel With 2 Overnight journey",
+        "Meals: A total of 4 meals (2 breakfasts and 2 dinners). Kindly note, considering the remoteness of the place, the supply of breakfast and dinner might have limited varieties.",
+        "Gypsy: Gypsy Safari (1 Day) Along will all Forest Charges, guide charges & Entry tickets",
+        "Traveler: Everyday commute by a Non AC tempo traveler/Sedan/SUV. All inner line permits for the trip; driver night charges, toll tax, parking charges."
+    ],
+    "exclusions": [
+        "Expenses: Any personal expenses.",
+        "Transport: Local vehicle charges may apply if unforeseen circumstances arise due to heavy crowd or if gypsy vehicles are sold out.",
+        "Natural Calamities",
+        "Meals: Any kind of food items or beverages that are not included in the package, like alcoholic drinks, mineral water, refreshments/lunches.",
+        "Tax: 5% Tax",
+        "Priority High: Anything not mentioned in the inclusion."
+    ],
+    "thingsToKnow": [
+        {
+            "title": "Trip Captain",
+            "description": "Friendly local tour leader."
+        },
+        {
+            "title": "Transport",
+            "description": "Everyday commute by Tempo Traveller/SUV."
+        },
+        {
+            "title": "Cancellation",
+            "description": "Booking is non-refundable after confirmation."
+        }
+    ],
+    "thingsToCarry": [
+        {
+            "title": "Clothing",
+            "description": "Comfortable clothes, jacket and raincoat."
+        },
+        {
+            "title": "Footwear",
+            "description": "Good trekking shoes."
+        },
+        {
+            "title": "Documents",
+            "description": "Government ID proof."
+        }
+    ],
+    "importantNotes": [
+        {
+            "type": "danger",
+            "text": "Booking is non-refundable after confirmation."
+        },
+        {
+            "type": "warning",
+            "text": "Trips run on schedule. Please report on time, Itinerary may change due to weather conditions."
+        },
+        {
+            "type": "success",
+            "text": "Respect local culture and nature."
+        },
+        {
+            "type": "info",
+            "text": "Check-in and check-out timings depend on hotel policy, Follow your trip captain's instructions."
+        }
+    ],
+    "policies": [
+        {
+            "title": "Cancellation Policy",
+            "content": "If cancellations are made 60-30 days before the trip's start date, 10% of the total tour cost will be charged as cancellation fees. If cancellations are made 30 days before the trip's start date, 50% of the total tour cost will be charged as cancellation fees. If cancellations are made within 0-30 days before the trip's start date, 100% of the total tour cost will be charged as cancellation fees. In case of unforeseen weather conditions or government restrictions, certain activities may be canceled, and in such cases, the operator will try his best to provide an alternate feasible activity. However, no refund will be provided for the same."
+        },
+        {
+            "title": "Booking Policy",
+            "content": "Book your seats by depositing an advance of 50% per head to the below account and the rest has to be paid 1 day prior to the time of departure of the trip. Send Payment screenshot on the below numbers. And fill out the form which will be provided by us. Then booking will confirm accordingly.If you want to book any specific seat in the traveler then you have to pay Rs.300/- extra amount for booking specific seat number, (seats will be provided subject to availability basis)/ First come first basis."
+        },
+        {
+            "title": "Privacy Policy",
+            "content": "Your personal data is secure with us and only used for booking and communication purposes. We never share data with third parties."
+        },
+        {
+            "title": "Travel & Safety Policy",
+            "content": "We prioritize traveler safety and follow all government-issued travel advisories and guidelines."
+        },
+        {
+            "title": "Late Arrival Policy",
+            "content": "Participants arriving late may not be eligible for refunds or adjustments. Please arrive 15 minutes early."
+        },
+        {
+            "title": "Group Size Policy",
+            "content": "Some packages have a maximum group size limit. Please check the Group Size section for details."
+        },
+        {
+            "title": "Travel Insurance Policy",
+            "content": "While not mandatory, we highly recommend travel insurance for safety and peace of mind during your trip."
+        },
+        {
+            "title": "Prohibited Substances Policy",
+            "content": "TripWithMe strictly prohibits the use of narcotics, banned substances, weapons, fireworks, or toxic materials during tours. Violation may result in immediate removal without refund and possible legal action."
+        },
+        {
+            "title": "Accommodation Policy",
+            "content": "The amount given is based on a quad-sharing basis. An extra mattress will be provided for the extra person."
+        },
+        {
+            "title": "Eviction Policy",
+            "content": "The organizers reserve the right to evict any participant at any time without any refund if their actions violate any tour rules."
+        },
+        {
+            "title": "Safety Outside Premises",
+            "content": "TripWithMe is not responsible for your safety or whereabouts if you are outside the resort or campsite premises."
+        },
+        {
+            "title": "Damage to Property",
+            "content": "Any loss or damage to resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
+        },
+        {
+            "title": "Loss or Theft",
+            "content": "We are not responsible for the loss, theft, or damage of personal belongings during the trip."
+        },
+        {
+            "title": "Health Responsibility",
+            "content": "TripWithMe is not liable for illnesses, injuries, or health issues that may occur while traveling."
+        },
+        {
+            "title": "ID Requirement",
+            "content": "All guests must carry a valid government-issued ID card. Outside visitors must be pre-notified to management."
+        },
+        {
+            "title": "Booking Confirmation",
+            "content": "Slots at the resort or accommodation are confirmed only after receipt of full payment."
+        },
+        {
+            "title": "Injury & Liability",
+            "content": "Management accepts no responsibility for injuries or the loss/theft of personal property during the tour."
+        },
+        {
+            "title": "Transport Breakdown",
+            "content": "In case of any transport breakdown during the journey, participants will need to wait until repairs are completed. No backup transport will be provided."
+        },
+        {
+            "title": "Environmental Policy",
+            "content": "We request all participants to cooperate in keeping the environment clean, safe, and free from litter."
+        },
+        {
+            "title": "Registrations and Tickets Policy",
+            "content": "Registrations and tickets once booked cannot be exchanged, canceled, or refunded."
+        },
+        {
+            "title": "Event Rules",
+            "content": "Bonfire, music nights, and other activities are subject to local authority regulations and hotel/campsite policies."
+        },
+        {
+            "title": "Seating Arrangement",
+            "content": "Seats on buses, tempo travellers, or other vehicles are allocated on a first-come, first-served basis."
+        },
+        {
+            "title": "Enjoy & Respect",
+            "content": "Respect fellow travelers, follow all rules, and make the most of your adventure experience."
+        },
+        {
+            "title": "Important Note",
+            "content": "Numerous factors such as weather conditions, road situations, operational issues, and the physical ability of participants may cause itinerary changes. We reserve the right to modify schedules in the interest of safety, comfort, and the overall wellbeing of participants."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Is pickup and drop included?",
+            "answer": "Yes, pickup and drop from Pipariya Railway Station is included."
+        },
+        {
+            "question": "Are meals included?",
+            "answer": "No, meals are not included in this package."
+        },
+        {
+            "question": "Is gypsy sightseeing included?",
+            "answer": "Yes, gypsy sightseeing is included as per itinerary."
+        },
+        {
+            "question": "Is this package suitable for couples?",
+            "answer": "Yes, the package is suitable for couples, families and groups."
+        }
+    ],
+    "batches": [
+        "25 Jul 2026",
+        "08 Aug 2026",
+        "22 Aug 2026",
+        "05 Sep 2026"
+    ]
+}
