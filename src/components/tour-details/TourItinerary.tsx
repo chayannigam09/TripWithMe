@@ -23,18 +23,18 @@ export default function TourItinerary({ itinerary }: Props) {
       <div className="relative">
 
         {/* Timeline Line */}
-        <div className="absolute left-5 top-0 bottom-0 w-[2px] bg-gray-700" />
+        {/* <div className="absolute left-5 top-0 bottom-0 w-[2px] bg-gray-300" /> */}
 
         {itinerary.map((day) => {
           const isOpen = openDay === day.day;
 
           return (
-            <div key={day.day} className="relative pl-14 mb-6">
+            <div key={day.day} className="relative mb-6">
 
               {/* Timeline Dot */}
               {/* <div className="absolute left-0 top-5 h-4 w-4 rounded-full bg-amber-500 border-4 border-white z-10" /> */}
 
-              <div className="bg-zinc-900 rounded-2xl overflow-hidden border border-zinc-800">
+              <div className="bg-white rounded-2xl shadow-lg overflow-hidden border border-slate-300">
 
                 <button
                   onClick={() =>
@@ -49,7 +49,7 @@ export default function TourItinerary({ itinerary }: Props) {
                       className="text-amber-400"
                     />
 
-                    <h3 className="text-xl font-semibold text-white">
+                    <h3 className="text-xl font-semibold text-gray-900">
                       Day {day.day} - {day.title}
                     </h3>
 
@@ -71,7 +71,7 @@ export default function TourItinerary({ itinerary }: Props) {
                 >
                   <div className="px-8 pb-6">
 
-                    <ul className="space-y-3 text-gray-300">
+                    <ul className="space-y-3 text-gray-700">
 
                       {day.activities.map(
                         (activity, index) => (

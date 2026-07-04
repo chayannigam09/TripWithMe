@@ -16,9 +16,9 @@ export default function TourPolicies({ policies }: any) {
       </h2>
 
       <div className="
-        bg-slate-900
+        bg-white
         border
-        border-slate-800
+        border-slate-300
         rounded-3xl
         p-6
       ">
@@ -34,16 +34,16 @@ export default function TourPolicies({ policies }: any) {
                   ${
                     index !==
                     visiblePolicies.length - 1
-                      ? "border-b border-slate-800"
+                      ? "border-b border-slate-300"
                       : ""
                   }
                 `}
               >
-                <h3 className="font-semibold text-lg text-white">
+                <h3 className="font-semibold text-lg text-slate-900">
                   {policy.title}
                 </h3>
 
-                <p className="text-slate-400 mt-2 text-sm leading-7">
+                <p className="text-slate-500 mt-2 text-sm leading-7">
                   {policy.content}
                 </p>
               </div>
@@ -67,7 +67,7 @@ export default function TourPolicies({ policies }: any) {
                 py-3
                 hover:text-blue-700
                 transition
-                text-white
+                text-slate-500
                 font-medium
               "
             >

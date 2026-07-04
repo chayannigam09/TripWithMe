@@ -7,8 +7,8 @@ import {
 
 export default function ThingsToCarry({ items }: any) {
   return (
-    <div className="bg-slate-900 rounded-3xl p-6">
-      <h2 className="text-3xl font-bold mb-6">
+    <div className="bg-white rounded-2xl shadow-lg p-6">
+      <h2 className="text-3xl text-slate-900 font-bold mb-6">
         Things To Carry
       </h2>
 
@@ -17,18 +17,18 @@ export default function ThingsToCarry({ items }: any) {
         {items.map((item: any, index: number) => (
           <div
             key={index}
-            className="border-b border-slate-800 pb-6"
+            className="border-b border-slate-200 pb-6"
           >
-            <div className="flex gap-4">
+            <div className="flex gap-3">
 
               {/* <User className="text-purple-400 mt-1" /> */}
 
               <div>
-                <h3 className="font-semibold text-lg">
+                <h3 className="font-semibold text-slate-900 text-lg">
                   {item.title}
                 </h3>
 
-                <p className="text-slate-400 mt-2">
+                <p className="text-slate-400 mt-1">
                   {item.description}
                 </p>
               </div>

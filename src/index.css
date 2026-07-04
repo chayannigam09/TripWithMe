@@ -5,6 +5,14 @@
 
 
 
+@theme {
+  --color-primary-green: #F0FDF4;
+}
+
+
+body{
+  background-color: #F9FAFB;
+}
 /* Chrome, Edge, Safari */
 body::-webkit-scrollbar {
   width: 6px;

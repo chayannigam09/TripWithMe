@@ -31,7 +31,7 @@ Hi, I would like to book this trip. Please share the payment details.
   return (
     <div className="sticky top-24 h-fit">
 
-      <div className="bg-white rounded-3xl shadow-xl p-6">
+      <div className="bg-white rounded-3xl border-zinc shadow-xl p-6">
 
         <p className="text-gray-500">
           Starting From
@@ -54,7 +54,7 @@ Hi, I would like to book this trip. Please share the payment details.
             onChange={(e) =>
               setSelectedBatch(e.target.value)
             }
-            className="w-full border rounded-xl p-3"
+            className="w-full border border-slate-300 rounded-xl p-3"
           >
             <option value="">
               Choose Batch
@@ -87,7 +87,7 @@ Hi, I would like to book this trip. Please share the payment details.
             onChange={(e) =>
               setGuests(e.target.value)
             }
-            className="w-full border rounded-xl p-3"
+            className="w-full border border-slate-300 rounded-xl p-3"
           >
             {[1, 2, 3, 4, 5, 6, 7, 8].map(
               (guest) => (
@@ -113,13 +113,12 @@ Hi, I would like to book this trip. Please share the payment details.
           onClick={handleBooking}
           disabled={!selectedBatch}
           className="
+            cursor-pointer
             w-full
             mt-6
             py-3
             rounded-full
-            bg-gradient-to-r
-            from-blue-500
-            to-purple-600
+            bg-blue-400
             text-white
             disabled:opacity-50
           "

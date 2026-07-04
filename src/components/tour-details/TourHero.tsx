@@ -1,5 +1,4 @@
 export default function TourHero({ tour }: any) {
-  console.log(tour)
   return (
     // <section
     //   className="h-[500px] bg-cover bg-center relative"
@@ -44,22 +43,22 @@ export default function TourHero({ tour }: any) {
       Popular Tour
     </span> */}
 
-    <h1 className="text-3xl md:text-5xl font-bold mt-3">
+    <h1 className="text-3xl md:text-5xl text-gray-900 font-bold mt-3">
       {tour.title}
     </h1>
 
     <p className="text-slate-400 mt-2">
-      {tour.location}
+      {tour.location}, {tour.duration}
     </p>
 
     <div className="flex flex-wrap gap-3 mt-4">
 
-      <span className="bg-slate-800 px-4 py-2 rounded-full">
+      {/* <span className="bg-white px-4 py-2 text-slate-800 rounded-full">
         {tour.duration}
-      </span>
+      </span> */}
 
-      <span className="bg-slate-800 px-4 py-2 rounded-full">
-        ₹{tour.price}
+      <span className="bg-white px-4 py-2 text-slate-800 rounded-xl">
+        Starting From ₹{tour.price}
       </span>
 
     </div>

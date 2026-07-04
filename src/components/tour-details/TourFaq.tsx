@@ -27,7 +27,7 @@ export default function TourFaq({
             return (
               <div
                 key={index}
-                className="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden"
+                className="bg-white rounded-2xl border border-slate-300 overflow-hidden"
               >
 
                 <button
@@ -40,7 +40,7 @@ export default function TourFaq({
                   }
                   className="w-full flex justify-between items-center p-5 text-left"
                 >
-                  <span className="font-semibold text-lg">
+                  <span className="font-semibold text-slate-900 text-lg">
                     {faq.question}
                   </span>
 

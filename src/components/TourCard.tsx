@@ -13,9 +13,9 @@ export default function TourCard({ tour }: any) {
         cursor-pointer
         rounded-xl
         overflow-hidden
-        bg-slate-900
+        bg-white
         border
-        border-slate-800
+        border-slate-300
         hover:border-blue-500/50
         transition-all
         duration-500
@@ -54,7 +54,7 @@ export default function TourCard({ tour }: any) {
           {tour.location}
         </p>
 
-        <h3 className="text-xl font-bold text-white min-h-[64px]">
+        <h3 className="text-xl font-bold text-slate-900 min-h-[64px]">
           {tour.title}
         </h3>
 
@@ -64,7 +64,7 @@ export default function TourCard({ tour }: any) {
 
         <div className="flex justify-between items-center mt-5">
 
-          <span className="text-slate-300">
+          <span className="text-slate-400">
             {tour.duration}
           </span>
 

@@ -18,7 +18,7 @@ export default function TourInclusions({
       <div className="grid lg:grid-cols-2 gap-8">
 
         {/* Included */}
-        <div className="relative overflow-hidden rounded-3xl border border-emerald-500/20 bg-gradient-to-br from-emerald-950/50 to-slate-900 p-8">
+        <div className="relative overflow-hidden rounded-3xl border border-emerald-500/20 bg-emerald-50 p-8">
 
           <div className="absolute left-0 top-0 h-full w-1 bg-emerald-500" />
 
@@ -28,7 +28,7 @@ export default function TourInclusions({
               className="text-emerald-400"
             />
 
-            <h3 className="text-2xl font-bold text-emerald-400">
+            <h3 className="text-2xl font-bold text-emerald-600">
               Included
             </h3>
           </div>
@@ -45,7 +45,7 @@ export default function TourInclusions({
                   className="text-emerald-400 mt-1 shrink-0"
                 />
 
-                <p className="text-slate-300 leading-relaxed">
+                <p className="text-emerald-600 leading-relaxed">
                   {item}
                 </p>
               </div>
@@ -56,7 +56,7 @@ export default function TourInclusions({
         </div>
 
         {/* Excluded */}
-        <div className="relative overflow-hidden rounded-3xl border border-red-500/20 bg-gradient-to-br from-red-950/40 to-slate-900 p-8">
+        <div className="relative overflow-hidden rounded-3xl border border-red-500/20 bg-red-50 p-8">
 
           <div className="absolute left-0 top-0 h-full w-1 bg-red-500" />
 
@@ -66,7 +66,7 @@ export default function TourInclusions({
               className="text-red-400"
             />
 
-            <h3 className="text-2xl font-bold text-red-400">
+            <h3 className="text-2xl font-bold text-red-500">
               Not Included
             </h3>
           </div>
@@ -83,7 +83,7 @@ export default function TourInclusions({
                   className="text-red-400 mt-1 shrink-0"
                 />
 
-                <p className="text-slate-300 leading-relaxed">
+                <p className="text-red-500 leading-relaxed">
                   {item}
                 </p>
               </div>

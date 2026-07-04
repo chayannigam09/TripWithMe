@@ -5,9 +5,9 @@ import { tours } from "../tours";
 export default function PopularTours() {
   console.log(tours)
   return (
-    <div className="bg-slate-950 min-h-screen">
+    <div className="min-h-screen">
       <section className="py-10 text-center">
-        <h1 className="text-5xl font-bold text-white">
+        <h1 className="text-5xl font-bold text-slate-900">
           Discover Your Next Adventure
         </h1>
         <p className="text-slate-400 mt-4">

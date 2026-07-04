@@ -4,7 +4,7 @@ export default function TourCard({ tour }: any) {
   const navigate = useNavigate();
 
   return (
-    <div className="bg-slate-900 rounded-3xl overflow-hidden border border-slate-800 hover:border-blue-500 transition">
+    <div className="bg-white rounded-xl overflow-hidden border border-slate-400 hover:border-blue-500 transition">
 
       <div className="grid md:grid-cols-[320px_1fr]">
 
@@ -18,10 +18,10 @@ export default function TourCard({ tour }: any) {
 
           <div className="flex justify-between">
 
-            <h2 className="text-2xl text-white font-bold">
+            <h2 className="text-2xl text-slate-900 font-bold">
                 {tour.title}
             </h2>
-            <span className="text-2xl font-bold text-white">
+            <span className="text-2xl font-bold text-slate-900">
               ₹{tour.price}
             </span>
 
@@ -33,7 +33,7 @@ export default function TourCard({ tour }: any) {
             {tour.location}
           </p>
 
-          <p className="text-slate-300 mt-4 line-clamp-2">
+          <p className="text-slate-500 mt-4 line-clamp-2">
             {tour.overview}
           </p>
 
@@ -47,7 +47,7 @@ export default function TourCard({ tour }: any) {
             onClick={() =>
               navigate(`/tour-details/${tour.slug}`)
             }
-            className="mt-6 px-6 py-3 cursor-pointer rounded-full bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
+            className="mt-6 px-4 py-2 cursor-pointer rounded-full bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
           >
             View Details →
           </button>
