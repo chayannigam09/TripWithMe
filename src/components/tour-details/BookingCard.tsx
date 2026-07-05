@@ -29,9 +29,9 @@ Hi, I would like to book this trip. Please share the payment details.
   };
 
   return (
-    <div className="sticky top-24 h-fit">
+    <div className="top-24 h-fit">
 
-      <div className="bg-white rounded-3xl border-zinc shadow-xl p-6">
+      <div className="bg-white rounded-md border-zinc shadow-2xl p-6">
 
         <p className="text-gray-500">
           Starting From
