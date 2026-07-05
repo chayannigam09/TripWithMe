@@ -67,7 +67,7 @@ export default function TourGallery({
 
   return (
     <>
-      <section className="max-w-7xl mx-auto px-4 py-1">
+      <section className="max-w-7xl mx-auto py-1">
 
         {/* <div className="flex justify-between items-center mb-1">
 
@@ -89,7 +89,7 @@ export default function TourGallery({
 
           {/* Main Image */}
           <div
-            className="md:col-span-2 md:row-span-2 h-[500px] overflow-hidden rounded-3xl cursor-pointer"
+            className="md:col-span-2 md:row-span-2 h-[500px] overflow-hidden rounded-md cursor-pointer"
             onClick={() => openGallery(0)}
           >
             <img
@@ -108,7 +108,7 @@ export default function TourGallery({
                 onClick={() =>
                   openGallery(index + 1)
                 }
-                className="h-[242px] overflow-hidden rounded-3xl cursor-pointer"
+                className="h-[242px] overflow-hidden rounded-md cursor-pointer"
               >
                 <img
                   loading="lazy"

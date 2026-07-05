@@ -25,38 +25,40 @@ export default function TourDetails() {
   }
 
   return (
-    <>
+    <div className="mx-24">
       <TourHero tour={tour} />
+      <div className="grid lg:grid-cols-[1fr_300px] gap-5">
 
-      <TourGallery images={tour.gallery} />
+        <TourGallery images={tour.gallery} />
+        <BookingCard tour={tour} />
 
+      </div>
       <div className="max-w-7xl mx-auto px-4 py-10">
 
-        <div className="grid lg:grid-cols-[1fr_350px] gap-10">
+        {/* <div className="grid lg:grid-cols-[1fr_350px] gap-10"> */}
 
-          <div className="space-y-10">
-            <TourOverview tour={tour} />
-            <TourItinerary itinerary={tour.itinerary} />
-            <TourInclusions
-              inclusions={tour.inclusions}
-              exclusions={tour.exclusions}
-            />
-          </div>
+        {/* <div className="space-y-10"> */}
+        <TourOverview tour={tour} />
+        <TourItinerary itinerary={tour.itinerary} />
+        <TourInclusions
+          inclusions={tour.inclusions}
+          exclusions={tour.exclusions}
+        />
+        {/* </div> */}
 
-          <BookingCard tour={tour} />
 
-          <div className="grid lg:grid-cols-2 gap-8 mt-12">
+        <div className="grid lg:grid-cols-2 gap-8 mt-12">
 
-            <ThingsToKnow
-              items={tour.thingsToKnow}
-            />
+          <ThingsToKnow
+            items={tour.thingsToKnow}
+          />
 
-            <ThingsToCarry
-              items={tour.thingsToCarry}
-            />
+          <ThingsToCarry
+            items={tour.thingsToCarry}
+          />
 
-          </div>
         </div>
+        {/* </div> */}
 
         <ImportantNotes
           notes={tour.importantNotes}
@@ -68,6 +70,6 @@ export default function TourDetails() {
         />
 
       </div>
-    </>
+    </div>
   );
 }
