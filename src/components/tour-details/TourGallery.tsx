@@ -68,58 +68,40 @@ export default function TourGallery({
   return (
     <>
       <section className="max-w-7xl mx-auto py-1">
-
-        {/* <div className="flex justify-between items-center mb-1">
-
-          <h2 className="text-3xl font-bold">
-            Tour Gallery
-          </h2>
-
-          <button
-            onClick={() => openGallery(0)}
-            className="flex items-center gap-2 px-5 py-2 rounded-full border"
-          >
-            <Images size={18} />
-            View All Photos
-          </button>
-
-        </div> */}
-
-        <div className="grid md:grid-cols-4 gap-2">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
 
           {/* Main Image */}
           <div
-            className="md:col-span-2 md:row-span-2 h-[500px] overflow-hidden rounded-md cursor-pointer"
+            className="col-span-2 md:col-span-2 md:row-span-2
+               md:h-[450px]
+               overflow-hidden rounded-md cursor-pointer"
             onClick={() => openGallery(0)}
           >
             <img
               loading="lazy"
               src={images[0]}
-              alt=""
+              alt="Main tour"
               className="w-full h-full object-cover hover:scale-110 transition duration-500"
             />
           </div>
 
-          {images
-            .slice(1, 5)
-            .map((img, index) => (
-              <div
-                key={img}
-                onClick={() =>
-                  openGallery(index + 1)
-                }
-                className="h-[242px] overflow-hidden rounded-md cursor-pointer"
-              >
-                <img
-                  loading="lazy"
-                  src={img}
-                  alt=""
-                  className="w-full h-full object-cover hover:scale-110 transition duration-500"
-                />
-              </div>
-            ))}
+          {/* Small Images */}
+          {images.slice(1, 5).map((img, index) => (
+            <div
+              key={img}
+              onClick={() => openGallery(index + 1)}
+              className="h-[150px]  md:h-[220px] overflow-hidden rounded-md cursor-pointer"
+            >
+              <img
+                loading="lazy"
+                src={img}
+                alt={`Tour ${index + 2}`}
+                className="w-full h-full object-cover hover:scale-110 transition duration-500"
+              />
+            </div>
+          ))}
         </div>
-      </section>      
+      </section>
     </>
   );
 }

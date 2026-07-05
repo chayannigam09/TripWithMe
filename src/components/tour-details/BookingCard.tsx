@@ -29,7 +29,7 @@ Hi, I would like to book this trip. Please share the payment details.
   };
 
   return (
-    <div className="top-24 h-fit">
+    <div className="top-24 h-fit ">
 
       <div className="bg-white rounded-md border-zinc shadow-2xl p-6">
 
@@ -43,9 +43,9 @@ Hi, I would like to book this trip. Please share the payment details.
 
         {/* Batch Selection */}
 
-        <div className="mt-6">
+        <div className="mt-4">
 
-          <label className="block text-sm font-medium mb-2">
+          <label className="block text-sm font-medium mb-1">
             Select Batch
           </label>
 
@@ -78,7 +78,7 @@ Hi, I would like to book this trip. Please share the payment details.
 
         <div className="mt-4">
 
-          <label className="block text-sm font-medium mb-2">
+          <label className="block text-sm font-medium mb-1">
             Guests
           </label>
 
@@ -115,9 +115,9 @@ Hi, I would like to book this trip. Please share the payment details.
           className="
             cursor-pointer
             w-full
-            mt-6
-            py-3
-            rounded-full
+            mt-4
+            py-2
+            rounded-md
             bg-blue-400
             text-white
             disabled:opacity-50
@@ -135,8 +135,8 @@ Hi, I would like to book this trip. Please share the payment details.
           className="
             w-full
             mt-4
-            py-3
-            rounded-full
+            py-2
+            rounded-md
             bg-green-600
             text-white
             flex
