@@ -1,9 +1,15 @@
 import React from 'react';
 import { Star, Quote } from 'lucide-react';
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination } from "swiper/modules";
+
+import "swiper/css";
+import "swiper/css/pagination";
+
 
 const testimonials = [
   {
-    id: 1,  
+    id: 1,
     name: 'Sarah Johnson',
     location: 'New York, USA',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400',
@@ -13,7 +19,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Miguel Rodriguez',
-    location: 'Barcelona, Spain', 
+    location: 'Barcelona, Spain',
     image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400',
     rating: 5,
     text: 'The local guides feature is phenomenal! I discovered hidden gems in Tokyo that I would never have found on my own. The technology behind their recommendations is incredible - it felt like having a local friend in every city.'
@@ -65,40 +71,72 @@ const Testimonials = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <Swiper
+          modules={[Autoplay, Pagination]}
+          spaceBetween={24}
+          slidesPerView={1}
+          loop
+          grabCursor
+          autoplay={{
+            delay: 3500,
+            disableOnInteraction: false,
+          }}
+          pagination={{ clickable: true }}
+          breakpoints={{
+            640: {
+              slidesPerView: 1,
+            },
+            768: {
+              slidesPerView: 2,
+            },
+            1024: {
+              slidesPerView: 3,
+            },
+          }}
+          className=""
+        >
           {testimonials.map((testimonial) => (
-            <div
-              key={testimonial.id}
-              className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 relative"
-            >
-              <Quote className="absolute top-6 right-6 h-8 w-8 text-blue-100" />
-              
-              <div className="flex items-center mb-6">
-                <img
-                  src={testimonial.image}
-                  alt={testimonial.name}
-                  className="w-16 h-16 rounded-full object-cover mr-4"
-                />
-                <div>
-                  <h4 className="font-bold text-gray-900">{testimonial.name}</h4>
-                  <p className="text-gray-500 text-sm">{testimonial.location}</p>
-                  <div className="flex items-center mt-1">
-                    {[...Array(testimonial.rating)].map((_, i) => (
-                      <Star key={i} className="h-4 w-4 text-yellow-400 fill-current" />
-                    ))}
+            <SwiperSlide key={testimonial.id}>
+              <div className="mb-12 bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 relative h-full ">
+                <Quote className="absolute top-6 right-6 h-8 w-8 text-blue-100" />
+
+                <div className="flex items-center mb-6">
+                  <img
+                    src={testimonial.image}
+                    alt={testimonial.name}
+                    className="w-16 h-16 rounded-full object-cover mr-4"
+                  />
+
+                  <div>
+                    <h4 className="font-bold text-gray-900">
+                      {testimonial.name}
+                    </h4>
+
+                    <p className="text-gray-500 text-sm">
+                      {testimonial.location}
+                    </p>
+
+                    <div className="flex items-center mt-1">
+                      {[...Array(testimonial.rating)].map((_, i) => (
+                        <Star
+                          key={i}
+                          className="h-4 w-4 text-yellow-400 fill-current"
+                        />
+                      ))}
+                    </div>
                   </div>
                 </div>
+
+                <p className="text-gray-600 leading-relaxed italic line-clamp-5">
+                  "{testimonial.text}"
+                </p>
               </div>
-              
-              <p className="text-gray-600 leading-relaxed italic">
-                "{testimonial.text}"
-              </p>
-            </div>
+            </SwiperSlide>
           ))}
-        </div>
+        </Swiper>
 
         {/* Stats Section */}
-        <div className="mt-20 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12">
+        <div className="mt-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center text-white">
             <div>
               <div className="text-4xl font-bold mb-2">4.9★</div>

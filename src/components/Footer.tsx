@@ -13,8 +13,12 @@ const Footer = () => {
           <div className="col-span-1 lg:col-span-2">
             <div className="flex items-center mb-6">
               {/* <MapPin className="h-8 w-8 text-blue-400 mr-2" /> */}
-              <img src={logo} alt="" className='w-16' />
-              <span className="text-2xl font-bold">TripWithMe</span>
+              <img src={logo} alt="" className='w-16 mr-2'  />
+              <h1 className="text-2xl font-bold" >
+                <span className="text-[#F25A29]">Trip</span>
+                <span className="text-[#2FAE5B]">With</span>
+                <span className="text-[#2E7DDB]">Me</span>
+              </h1>
             </div>
             <p className="text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
               Revolutionizing travel through technology. Connect with fellow adventurers,
