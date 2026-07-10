@@ -11,7 +11,7 @@ export default function TourFaq({
     useState<number | null>(0);
 
   return (
-    <section className="mt-16">
+    <section className="mt-8">
 
       <h2 className="text-3xl font-bold mb-8">
         Frequently Asked Questions

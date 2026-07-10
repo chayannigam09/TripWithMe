@@ -28,10 +28,8 @@ export default function TourDetails() {
     <div className="mx-1 sm:mx-6 md:mx-10 lg:mx-16 xl:mx-24">
       <TourHero tour={tour} />
       <div className="grid lg:grid-cols-[1fr_300px] gap-5">
-
         <TourGallery images={tour.gallery} />
         <BookingCard tour={tour} />
-
       </div>
       <div className="py-10">
         <TourOverview tour={tour} />

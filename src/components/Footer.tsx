@@ -7,18 +7,21 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Company Info */}
           <div className="col-span-1 lg:col-span-2">
             <div className="flex items-center mb-6">
               {/* <MapPin className="h-8 w-8 text-blue-400 mr-2" /> */}
-              <img src={logo} alt="" className='w-16' />
-              <span className="text-2xl font-bold">TripWithMe</span>
+              <img src={logo} alt="" className='w-16 mr-2'  />
+              <h1 className="text-2xl font-bold" >
+                <span className="text-[#F25A29]">Trip</span>
+                <span className="text-[#2FAE5B]">With</span>
+                <span className="text-[#2E7DDB]">Me</span>
+              </h1>
             </div>
-            <p className="text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
-              Revolutionizing travel through technology. Connect with fellow adventurers,
-              discover hidden gems, and create unforgettable memories around the world.
+            <p className="text-gray-300 text-md leading-relaxed mb-6 max-w-md">
+              At TripWithMe, we believe every journey should be affordable, exciting, and unforgettable. Let us help you explore new destinations, meet amazing people, and create memories you'll cherish forever.
             </p>
             <div className="flex space-x-4">
               <a href={url.facebook} target='_blank' className="bg-blue-600 p-3 rounded-lg hover:bg-blue-700 transition-colors">
@@ -39,7 +42,7 @@ const Footer = () => {
           {/* Quick Links */}
           <div>
             <h3 className="text-xl font-bold mb-6">Quick Links</h3>
-            <ul className="space-y-4">
+            <ul className="space-y-1">
               <li>
                 <Link
                   to="/"
@@ -109,31 +112,7 @@ const Footer = () => {
             </ul>
           </div> */}
         </div>
-
-        {/* Newsletter Signup */}
-        {/* <div className="border-t border-gray-800 mt-12 pt-12">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-            <div>
-              <h3 className="text-2xl font-bold mb-4">Stay Updated</h3>
-              <p className="text-gray-300">
-                Subscribe to our newsletter for travel tips, exclusive deals, and destination inspiration.
-              </p>
-            </div>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <input
-                type="email"
-                placeholder="Enter your email"
-                className="flex-1 px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-white placeholder-gray-400"
-              />
-              <button className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold whitespace-nowrap">
-                Subscribe
-              </button>
-            </div>
-          </div>
-        </div> */}
-
-        {/* Contact Info */}
-        <div className="border-t border-gray-800 mt-12 pt-8">
+        <div className="border-t border-gray-800 mt-4 p-2">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start">
               <Mail className="h-5 w-5 text-blue-400 mr-2" />
@@ -149,17 +128,15 @@ const Footer = () => {
             </div>
           </div>
         </div>
-
-        {/* Bottom Bar */}
-        <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm mb-4 md:mb-0">
+        <div className="border-t border-gray-800 pt-1 flex flex-col md:flex-row justify-center items-center">
+          <p className="text-gray-400 text-sm mb-4">
             © {new Date().getFullYear()} TripWithMe. All rights reserved.
           </p>
-          <div className="flex space-x-6 text-sm">
+          {/* <div className="flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="text-gray-400 hover:text-white transition-colors">Terms of Service</a>
             <a href="#" className="text-gray-400 hover:text-white transition-colors">Cookies</a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>

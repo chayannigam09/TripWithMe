@@ -5,6 +5,8 @@ import MainLayout from "../layouts/MainLayouts";
 import TourDetails from "../pages/TourDetails";
 import TourPolicies from "../components/tour-details/Policies";
 import { Policy } from "../pages/Policy";
+import { ContactUs } from "../pages/ContactUs";
+import NotFound from "../pages/NotFound";
 
 export const router = createBrowserRouter([
   {
@@ -25,7 +27,15 @@ export const router = createBrowserRouter([
       {
         path: "/policies",
         element: <Policy />
-      }
+      },
+      {
+        path: "/contact",
+        element: <ContactUs />
+      },
+      {
+        path: "*",
+        element: <NotFound />,
+      },
     ],
   },
 ]);
