@@ -51,7 +51,7 @@ export default function HomePopularTours({ tours }: Props) {
             clickable: true,
           }}
           className="popular-tour-slider"
-          
+          loop
           spaceBetween={24}
           breakpoints={{
             320: {

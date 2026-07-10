@@ -38,11 +38,11 @@ const Contact = () => {
   return (
     <section id="contact" className="mb-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
+        <div className="text-center mb-8">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Get in Touch
           </h2>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+          <p className="text-md text-gray-600 max-w-3xl mx-auto">
             Have questions about your next adventure? Our travel experts are here to help you plan the perfect trip.
           </p>
         </div>
@@ -66,7 +66,7 @@ const Contact = () => {
                   <Mail className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <p className="opacity-90">info@tripwithme.in</p>
+                    <p className="opacity-90">tripwithme.indore@gmail.com</p>
                   </div>
                 </div>
 
@@ -74,7 +74,7 @@ const Contact = () => {
                   <MapPin className="h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-semibold">Address</p>
-                    <p className="opacity-90">Vijay nagar square Indore, Madhya Pradesh, India 452001</p>
+                    <p className="opacity-90">Sanwer Road Indore, Madhya Pradesh, India 452015</p>
                   </div>
                 </div>
 
@@ -86,24 +86,6 @@ const Contact = () => {
                   </div>
                 </div>
               </div>
-
-              {/* <div className="border-t border-white/20 pt-8">
-                <h4 className="font-semibold mb-4">Follow Us</h4>
-                <div className="flex space-x-4">
-                  <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer">
-                    <span className="text-sm font-bold">f</span>
-                  </div>
-                  <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer">
-                    <span className="text-sm font-bold">t</span>
-                  </div>
-                  <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer">
-                    <span className="text-sm font-bold">in</span>
-                  </div>
-                  <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center hover:bg-white/30 transition-colors cursor-pointer">
-                    <span className="text-sm font-bold">ig</span>
-                  </div>
-                </div>
-              </div> */}
             </div>
           </div>
 
@@ -215,7 +197,7 @@ const Contact = () => {
                 <h4 className="font-bold text-gray-900 mb-2">Call Us</h4>
                 <p className="text-gray-600 text-sm mb-4">Speak directly with our travel experts</p>
                 <button className="text-green-600 font-semibold hover:text-green-700">
-                  <a href="tel:+919876543210">Call Now</a>
+                  <a href="tel:+917583869015">Call Now</a>
                 </button>
               </div>
             </div>

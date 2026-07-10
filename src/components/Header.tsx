@@ -37,13 +37,6 @@ const Header = () => {
               Destinations
             </Link>
 
-            {/* <Link
-              to="/services"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
-            >
-              Services
-            </Link> */}
-
             <Link
               to="/about"
               className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
@@ -59,18 +52,6 @@ const Header = () => {
             </Link>
           </nav>
 
-          {/* Desktop CTA */}
-          {/* <div className="hidden md:flex items-center space-x-4">
-            <button className="flex items-center text-gray-700 hover:text-blue-600 transition-colors">
-              <User className="h-5 w-5 mr-1" />
-              Login
-            </button>
-            <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center">
-              <ShoppingBag className="h-4 w-4 mr-2" />
-              Book Now
-            </button>
-          </div> */}
-
           {/* Mobile menu button */}
           <button
             className="md:hidden"
@@ -84,15 +65,37 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden py-4 border-t">
             <nav className="flex flex-col space-y-4">
-              <a href="#home" className="text-gray-700 hover:text-blue-600">Home</a>
-              <a href="#destinations" className="text-gray-700 hover:text-blue-600">Destinations</a>
-              <a href="#services" className="text-gray-700 hover:text-blue-600">Services</a>
-              <a href="#about" className="text-gray-700 hover:text-blue-600">About</a>
-              <a href="#contact" className="text-gray-700 hover:text-blue-600">Contact</a>
-              <div className="flex flex-col space-y-2 pt-4 border-t">
-                <button className="text-left text-gray-700 hover:text-blue-600">Login</button>
-                <button className="bg-blue-600 text-white px-4 py-2 rounded-lg w-fit">Book Now</button>
-              </div>
+              <Link
+              to="/"
+              onClick={() => setIsMenuOpen(false)}
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              Home
+            </Link>
+
+            <Link
+              to="/popular-tours"
+              onClick={() => setIsMenuOpen(false)}
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              Destinations
+            </Link>
+
+            <Link
+              to="/about"
+              onClick={() => setIsMenuOpen(false)}
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              About
+            </Link>
+
+            <Link
+              to="/contact"
+              onClick={() => setIsMenuOpen(false)}
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
+            >
+              Contact
+            </Link>
             </nav>
           </div>
         )}

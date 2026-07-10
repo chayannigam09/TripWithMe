@@ -8,7 +8,9 @@
 @theme {
   --color-primary-green: #F0FDF4;
 }
-
+@utility bg-brand-gradient {
+  @apply bg-gradient-to-r from-orange-500 via-green-500 to-blue-400;
+}
 
 body{
   background-color: #F9FAFB;
@@ -38,5 +40,19 @@ body::-webkit-scrollbar-thumb {
 
 .popular-tour-slider .swiper-pagination-bullet-active {
   background: #3b82f6;
+}
+
+@keyframes planeFly {
+  0% {
+    transform: translateX(-40px) translateY(-50%);
+  }
+
+  100% {
+    transform: translateX(320px) translateY(-50%);
+  }
+}
+
+.animate-plane {
+  animation: planeFly 2.5s linear infinite;
 }
 

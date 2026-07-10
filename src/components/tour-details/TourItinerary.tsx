@@ -15,7 +15,7 @@ export default function TourItinerary({ itinerary }: Props) {
   const [openDay, setOpenDay] = useState<number>(1);
 
   return (
-    <section className="mt-12">
+    <section className="mt-8">
       <h2 className="text-3xl font-bold mb-8">
         Day-wise Itinerary
       </h2>
