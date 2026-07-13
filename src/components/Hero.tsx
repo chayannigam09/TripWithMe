@@ -25,8 +25,7 @@ const Hero = () => {
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-200 mb-12 max-w-3xl mx-auto">
-          Discover extraordinary destinations, connect with fellow travelers, and create unforgettable memories with our innovative travel technology platform.
-        </p>
+         Discover breathtaking destinations, travel with like-minded explorers, and create unforgettable memories through affordable, well-planned journeys designed for every adventure.</p>
 
         {/* Search Box */}
         {/* <div className="bg-white rounded-2xl p-6 md:p-8 shadow-2xl max-w-4xl mx-auto mb-8">
