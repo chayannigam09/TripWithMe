@@ -10,6 +10,6 @@ export const tours = [
   kashmir,
   pachmarhi,
   maheshwar,
-  pachmarhi,
-  maheshwar
+  chardham,
+  kashmir
 ];
