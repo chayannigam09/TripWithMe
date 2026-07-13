@@ -12,12 +12,12 @@ export default function ThingsToKnow({ items }: any) {
         Things To Know
       </h2>
 
-      <div className="space-y-6">
+      <div className="space-y-2">
 
         {items.map((item: any, index: number) => (
           <div
             key={index}
-            className="border-b border-slate-200 pb-6"
+            className="border-b border-slate-200 pb-4"
           >
             <div className="flex gap-4">
 
@@ -28,7 +28,7 @@ export default function ThingsToKnow({ items }: any) {
                   {item.title}
                 </h3>
 
-                <p className="text-slate-400 mt-1">
+                <p className="text-slate-400 mt-1 text-sm">
                   {item.description}
                 </p>
               </div>

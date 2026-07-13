@@ -23,14 +23,14 @@ export default function TourPolicies({ policies }: any) {
         p-6
       ">
 
-        <div className="space-y-5">
+        <div className="space-y-2">
 
           {visiblePolicies.map(
             (policy: any, index: number) => (
               <div
                 key={index}
                 className={`
-                  pb-5
+                  pb-4
                   ${
                     index !==
                     visiblePolicies.length - 1
@@ -43,7 +43,7 @@ export default function TourPolicies({ policies }: any) {
                   {policy.title}
                 </h3>
 
-                <p className="text-slate-500 mt-2 text-sm leading-7">
+                <p className="text-slate-500 mt-1 text-sm leading-5">
                   {policy.content}
                 </p>
               </div>

@@ -29,7 +29,7 @@ export default function TourItinerary({ itinerary }: Props) {
           const isOpen = openDay === day.day;
 
           return (
-            <div key={day.day} className="relative mb-6">
+            <div key={day.day} className="relative mb-2">
 
               {/* Timeline Dot */}
               {/* <div className="absolute left-0 top-5 h-4 w-4 rounded-full bg-amber-500 border-4 border-white z-10" /> */}
@@ -71,7 +71,7 @@ export default function TourItinerary({ itinerary }: Props) {
                 >
                   <div className="px-8 pb-6">
 
-                    <ul className="space-y-3 text-gray-700">
+                    <ul className="space-y-1 text-gray-700">
 
                       {day.activities.map(
                         (activity, index) => (

@@ -17,7 +17,7 @@ export default function TourFaq({
         Frequently Asked Questions
       </h2>
 
-      <div className="space-y-4">
+      <div className="space-y-2">
 
         {faqs.map(
           (faq: any, index: number) => {
@@ -38,7 +38,7 @@ export default function TourFaq({
                         : index
                     )
                   }
-                  className="w-full flex justify-between items-center p-5 text-left"
+                  className="w-full flex justify-between items-center p-4 text-left"
                 >
                   <span className="font-semibold text-slate-900 text-lg">
                     {faq.question}
@@ -65,7 +65,7 @@ export default function TourFaq({
                 >
                   <div className="overflow-hidden">
 
-                    <div className="px-5 pb-5 text-slate-400">
+                    <div className="px-4 pb-4 text-slate-400">
                       {faq.answer}
                     </div>
 

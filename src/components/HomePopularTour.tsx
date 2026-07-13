@@ -26,10 +26,10 @@ export default function HomePopularTours({ tours }: Props) {
   const navigate = useNavigate();
 
   return (
-    <section className="py-10 bg-slate-100">
+    <section className="pt-10 pb-5 bg-slate-100">
       <div className="max-w-7xl mx-auto px-4">
 
-        <div className="flex justify-between items-center mb-10">
+        <div className="flex justify-between items-center mb-6">
           <div>
             <h2 className="text-4xl font-bold text-slate-900">
               Popular Tours
