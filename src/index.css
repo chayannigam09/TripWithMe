@@ -27,7 +27,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 6px;
 }
 .popular-tour-slider {
-  padding-bottom: 50px;
+  padding-bottom: 40px !important;
 }
 
 .popular-tour-slider .swiper-pagination {

@@ -37,7 +37,7 @@ export default function TourCard({ tour }: any) {
           "
         />
 
-        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/30 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/1 to-transparent" />
 
         <div className="absolute top-4 left-4">
           <span className="bg-blue-600 text-white text-xs px-3 py-1 rounded-full">
@@ -68,7 +68,7 @@ export default function TourCard({ tour }: any) {
             {tour.duration}
           </span>
 
-          <span className="text-yellow-400 font-bold">
+          <span className="text-green-400 font-bold">
             ₹{tour.price}
           </span>
 

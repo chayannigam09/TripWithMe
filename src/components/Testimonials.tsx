@@ -62,8 +62,8 @@ const Testimonials = () => {
   return (
     <section className="py-10 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+        <div className="text-center mb-10">
+          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             What Our Travelers Say
           </h2>
           <p className="text-md text-gray-600 max-w-3xl mx-auto">
@@ -99,7 +99,6 @@ const Testimonials = () => {
             <SwiperSlide key={testimonial.id}>
               <div className="mb-12 bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 relative min-h-[280px] ">
                 <Quote className="absolute top-6 right-6 h-8 w-8 text-blue-100" />
-
                 <div className="flex items-center mb-6">
                   <img
                     src={testimonial.image}
@@ -129,7 +128,6 @@ const Testimonials = () => {
                     </div>
                   </div>
                 </div>
-
                 <p className="text-gray-600 leading-relaxed italic line-clamp-5">
                   "{testimonial.text}"
                 </p>
@@ -139,7 +137,7 @@ const Testimonials = () => {
         </Swiper>
 
         {/* Stats Section */}
-        <div className="mt-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12">
+        <div className="mt-4 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl p-12">
           {/* <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center text-white">
             <div>
               <div className="text-4xl font-bold mb-2">4.9★</div>

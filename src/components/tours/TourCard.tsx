@@ -29,11 +29,11 @@ export default function TourCard({ tour }: any) {
 
          
 
-          <p className="text-slate-400 mt-2">
+          <p className="text-slate-400">
             {tour.location}
           </p>
 
-          <p className="text-slate-500 mt-4 line-clamp-2">
+          <p className="text-slate-500 mt-2 line-clamp-2">
             {tour.overview}
           </p>
 
@@ -47,7 +47,7 @@ export default function TourCard({ tour }: any) {
             onClick={() =>
               navigate(`/tour-details/${tour.slug}`)
             }
-            className="mt-6 px-4 py-2 cursor-pointer rounded-full bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
+            className="mt-2 px-4 py-2 cursor-pointer rounded-full bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
           >
             View Details →
           </button>

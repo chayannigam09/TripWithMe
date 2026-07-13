@@ -1,0 +1,365 @@
+{
+  "id": 2,
+  "slug": "chardham-yatra",
+  "title": "Chardham Yatra - Spiritual Journey to the Himalayas",
+  "location": "Uttarakhand",
+  "duration": "9 Nights / 10 Days",
+  "price": 19499,
+  "rating": 4.9,
+  "reviews": 186,
+  "pickup": "Haridwar",
+  "thumbnail": "/tours/chardham/banner.jpg",
+  "gallery": [
+    "/tours/chardham/1.jpg",
+    "/tours/chardham/2.jpg",
+    "/tours/chardham/3.jpg",
+    "/tours/chardham/4.jpg",
+    "/tours/chardham/5.jpg"
+  ],
+  "highlights": [
+    "Visit all four sacred shrines - Yamunotri, Gangotri, Kedarnath & Badrinath",
+    "Mussoorie sightseeing & Kempty Falls",
+    "Holy dip at Gangotri",
+    "Kedarnath trek with optional helicopter service",
+    "Explore Mana Village, Bhim Pul & Vyas Gufa",
+    "Visit Dharidevi Temple & Devprayag Sangam",
+    "Daily Breakfast & Dinner Included",
+    "Comfortable hotel accommodation throughout the journey"
+  ],
+  "overview": "Embark on the sacred Char Dham Yatra through the breathtaking Himalayas of Uttarakhand. This spiritual pilgrimage covers the four revered shrines of Yamunotri, Gangotri, Kedarnath, and Badrinath while offering mesmerizing mountain landscapes, holy rivers, ancient temples, and unforgettable experiences. From the charming hill station of Mussoorie and the majestic Kempty Falls to the divine Kedarnath trek, Mana Village, Dharidevi Temple, and the holy confluence at Devprayag, every day of the journey is filled with spirituality and natural beauty. Carefully planned accommodations, daily breakfast and dinner, and experienced trip assistance ensure a comfortable and memorable pilgrimage for families, groups, and solo travelers alike.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Haridwar – Mussoorie – Kempty Falls – Barkot",
+      "activities": [
+        "Pickup from Haridwar and begin your Char Dham Yatra.",
+        "Drive towards Barkot through the scenic Garhwal Himalayas.",
+        "Visit the beautiful hill station of Mussoorie.",
+        "Enjoy sightseeing at the famous Kempty Falls.",
+        "Reach Barkot and check in to your hotel.",
+        "Enjoy a delicious dinner.",
+        "Overnight stay at Barkot."
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Barkot – Janki Chatti – Yamunotri – Barkot",
+      "activities": [
+        "Enjoy breakfast at the hotel.",
+        "Drive to Janki Chatti, the starting point of the Yamunotri trek.",
+        "Begin the 6 km trek to Yamunotri Temple.",
+        "Seek blessings at Yamunotri Temple.",
+        "Return trek to Janki Chatti.",
+        "Drive back to Barkot.",
+        "Dinner at the hotel.",
+        "Overnight stay at Barkot."
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Barkot – Uttarkashi",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Drive towards Uttarkashi.",
+        "Visit the famous Kashi Vishwanath Temple.",
+        "Spend the evening at leisure.",
+        "Dinner at the hotel.",
+        "Overnight stay at Uttarkashi."
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Uttarkashi – Gangotri – Uttarkashi",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Drive to the sacred Gangotri Temple.",
+        "Take a holy dip in the Bhagirathi River (weather permitting).",
+        "Seek blessings at Gangotri Temple.",
+        "Return drive to Uttarkashi.",
+        "Dinner at the hotel.",
+        "Overnight stay at Uttarkashi."
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Uttarkashi – Guptkashi",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Drive towards Guptkashi through scenic Himalayan roads.",
+        "Visit the famous Ardh Narishwar Temple.",
+        "Check in to your hotel.",
+        "Dinner at the hotel.",
+        "Overnight stay at Guptkashi."
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Guptkashi – Gaurikund – Kedarnath",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Drive to Gaurikund.",
+        "Begin the 16–18 km trek to Kedarnath Temple.",
+        "Pony, Palki and Helicopter services are available at your own expense.",
+        "Reach Kedarnath and check in to your accommodation.",
+        "Tent or Homestay will be provided subject to availability.",
+        "Dinner at the hotel.",
+        "Overnight stay at Kedarnath."
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Kedarnath – Guptkashi",
+      "activities": [
+        "Early morning Kedarnath Temple Darshan.",
+        "Enjoy Breakfast",
+        "Trek back to Gaurikund.",
+        "Drive back to Guptkashi.",
+        "Dinner at the hotel.",
+        "Overnight stay at Guptkashi."
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Guptkashi – Joshimath – Badrinath",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Drive towards Badrinath via Joshimath.",
+        "Visit Badrinath Temple for evening darshan.",
+        "Dinner at the hotel.",
+        "Overnight stay at Badrinath."
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Badrinath – Mana Village – Rudraprayag",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Visit Mana Village, the last Indian village near the Indo-Tibetan border.",
+        "Explore Bhim Pul.",
+        "Visit Vyas Gufa.",
+        "Drive towards Rudraprayag.",
+        "If time permits, enjoy hot Maggi and tea by the riverside at your own expense.",
+        "Dinner at the hotel.",
+        "Overnight stay at Rudraprayag."
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Rudraprayag – Dharidevi Temple – Devprayag – Haridwar",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Visit the sacred Dharidevi Temple.",
+        "Visit Devprayag Sangam, where the Alaknanda and Bhagirathi rivers meet to form the holy River Ganga.",
+        "Drive back to Haridwar.",
+        "Drop at Haridwar.",
+        "Tour concludes with divine blessings and unforgettable memories."
+      ]
+    }
+  ],
+    "inclusions": [
+    "Pickup & Drop from Haridwar/Rishikesh.",
+    "Accommodation for 9 Nights in Hotels/Guest Houses on Double/Triple/Quad Sharing Basis.",
+    "Tent or Homestay accommodation at Kedarnath (Subject to Availability).",
+    "Meals: A total of 18 meals (9 breakfasts and 9 dinners). Kindly note, considering the remoteness of the place, the supply of breakfast and dinner might have limited varieties.",
+    "All sightseeing and transfers as per itinerary by Tempo Traveller/SUV/Sedan (depending on group size).",
+    "Experienced Driver with all Toll Taxes, Parking Charges and Driver Allowance.",
+    "All applicable state permits and vehicle charges.",
+    "Trip assistance throughout the journey."
+  ],
+  "exclusions": [
+    "Pony, Palki and Helicopter charges for Kedarnath trek.",
+    "VIP Darshan, Special Puja or Temple Entry Charges.",
+    "Personal expenses such as laundry, shopping, tips, telephone calls, etc.",
+    "Travel Insurance.",
+    "Medical expenses or emergency evacuation charges.",
+    "Any expenses arising due to natural calamities, road blockage, landslides, weather conditions or unforeseen circumstances.",
+    "Anything not specifically mentioned under 'Inclusions'."
+  ],
+  "thingsToKnow": [
+    {
+      "title": "Trip Captain",
+      "description": "Spiritual guide with local expertise."
+    },
+    {
+      "title": "Transportation",
+      "description": "Transportation will be provided by Tempo Traveller, SUV or Sedan depending upon the group size."
+    },
+    {
+      "title": "Info",
+      "description": "Non-refundable due to limited batch slots."
+    },
+    {
+      "title": "Info",
+      "description": "Strict adherence to temple timings, Respect local culture and pilgrims."
+    },
+    {
+      "title": "Info",
+      "description": "Mountains require care – listen to captain always."
+    }
+  ],
+  "thingsToCarry": [
+    {
+      "title": "Documents",
+      "description": "Valid Government Photo ID and multiple photocopies and Registration (must)"
+    },
+    {
+      "title": "Clothing",
+      "description": "Warm clothes, thermal wear, gloves, woolen cap, socks and raincoat."
+    },
+    {
+      "title": "Footwear",
+      "description": "Comfortable trekking shoes with good grip and extra slippers."
+    },
+    {
+      "title": "Essentials",
+      "description": "Water bottle, sunglasses, sunscreen, torch, umbrella, power bank and personal medicines."
+    },
+    {
+      "title": "Backpack",
+      "description": "Carry a comfortable backpack for the trek with only essential items."
+    }
+  ],
+  "importantNotes": [
+    {
+      "type": "danger",
+      "text": "Strictly non-refundable after booking."
+    },
+    {
+      "type": "warning",
+      "text": "The itinerary may change due to weather conditions, road closures, landslides or government advisories."
+    },
+    {
+      "type": "info",
+      "text": "Delays can lead to missed darshan slots."
+    },
+    {
+      "type": "success",
+      "text": "Mountain conditions are unpredictable – safety first."
+    }
+  ],
+  "policies": [
+        {
+            "title": "Cancellation Policy",
+            "content": "If cancellations are made 60-30 days before the trip's start date, 10% of the total tour cost will be charged as cancellation fees. If cancellations are made 30 days before the trip's start date, 50% of the total tour cost will be charged as cancellation fees. If cancellations are made within 0-30 days before the trip's start date, 100% of the total tour cost will be charged as cancellation fees. In case of unforeseen weather conditions or government restrictions, certain activities may be canceled, and in such cases, the operator will try his best to provide an alternate feasible activity. However, no refund will be provided for the same."
+        },
+        {
+            "title": "Booking Policy",
+            "content": "Book your seats by depositing an advance of 50% per head to the below account and the rest has to be paid 1 day prior to the time of departure of the trip. Send Payment screenshot on the below numbers. And fill out the form which will be provided by us. Then booking will confirm accordingly.If you want to book any specific seat in the traveler then you have to pay Rs.300/- extra amount for booking specific seat number, (seats will be provided subject to availability basis)/ First come first basis."
+        },
+        {
+            "title": "Privacy Policy",
+            "content": "Your personal data is secure with us and only used for booking and communication purposes. We never share data with third parties."
+        },
+        {
+            "title": "Travel & Safety Policy",
+            "content": "We prioritize traveler safety and follow all government-issued travel advisories and guidelines."
+        },
+        {
+            "title": "Late Arrival Policy",
+            "content": "Participants arriving late may not be eligible for refunds or adjustments. Please arrive 15 minutes early."
+        },
+        {
+            "title": "Group Size Policy",
+            "content": "Some packages have a maximum group size limit. Please check the Group Size section for details."
+        },
+        {
+            "title": "Travel Insurance Policy",
+            "content": "While not mandatory, we highly recommend travel insurance for safety and peace of mind during your trip."
+        },
+        {
+            "title": "Prohibited Substances Policy",
+            "content": "TripWithMe strictly prohibits the use of narcotics, banned substances, weapons, fireworks, or toxic materials during tours. Violation may result in immediate removal without refund and possible legal action."
+        },
+        {
+            "title": "Accommodation Policy",
+            "content": "The amount given is based on a quad-sharing basis. An extra mattress will be provided for the extra person."
+        },
+        {
+            "title": "Eviction Policy",
+            "content": "The organizers reserve the right to evict any participant at any time without any refund if their actions violate any tour rules."
+        },
+        {
+            "title": "Safety Outside Premises",
+            "content": "TripWithMe is not responsible for your safety or whereabouts if you are outside the resort or campsite premises."
+        },
+        {
+            "title": "Damage to Property",
+            "content": "Any loss or damage to resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
+        },
+        {
+            "title": "Loss or Theft",
+            "content": "We are not responsible for the loss, theft, or damage of personal belongings during the trip."
+        },
+        {
+            "title": "Health Responsibility",
+            "content": "TripWithMe is not liable for illnesses, injuries, or health issues that may occur while traveling."
+        },
+        {
+            "title": "ID Requirement",
+            "content": "All guests must carry a valid government-issued ID card. Outside visitors must be pre-notified to management."
+        },
+        {
+            "title": "Booking Confirmation",
+            "content": "Slots at the resort or accommodation are confirmed only after receipt of full payment."
+        },
+        {
+            "title": "Injury & Liability",
+            "content": "Management accepts no responsibility for injuries or the loss/theft of personal property during the tour."
+        },
+        {
+            "title": "Transport Breakdown",
+            "content": "In case of any transport breakdown during the journey, participants will need to wait until repairs are completed. No backup transport will be provided."
+        },
+        {
+            "title": "Environmental Policy",
+            "content": "We request all participants to cooperate in keeping the environment clean, safe, and free from litter."
+        },
+        {
+            "title": "Registrations and Tickets Policy",
+            "content": "Registrations and tickets once booked cannot be exchanged, canceled, or refunded."
+        },
+        {
+            "title": "Event Rules",
+            "content": "Bonfire, music nights, and other activities are subject to local authority regulations and hotel/campsite policies."
+        },
+        {
+            "title": "Seating Arrangement",
+            "content": "Seats on buses, tempo travellers, or other vehicles are allocated on a first-come, first-served basis."
+        },
+        {
+            "title": "Enjoy & Respect",
+            "content": "Respect fellow travelers, follow all rules, and make the most of your adventure experience."
+        },
+        {
+            "title": "Important Note",
+            "content": "Numerous factors such as weather conditions, road situations, operational issues, and the physical ability of participants may cause itinerary changes. We reserve the right to modify schedules in the interest of safety, comfort, and the overall wellbeing of participants."
+        }
+    ],
+  "faq": [
+    {
+      "question": "Where does the tour start and end?",
+      "answer": "The tour starts with pickup from Haridwar and concludes with drop-off at Haridwar."
+    },
+    {
+      "question": "Is helicopter service included for Kedarnath?",
+      "answer": "No. Helicopter, Pony and Palki services are optional and available at your own expense."
+    },
+    {
+      "question": "What type of accommodation is provided at Kedarnath?",
+      "answer": "Tent or Homestay accommodation will be provided subject to availability."
+    },
+    {
+      "question": "Can senior citizens join this trip?",
+      "answer": "Yes, provided they are medically fit for high-altitude travel and the Kedarnath trek."
+    },
+    {
+      "question": "Will all sightseeing mentioned in the itinerary be covered?",
+      "answer": "Yes, subject to weather conditions, road accessibility and government regulations."
+    }
+  ],
+  "batches": [
+    "Every Friday",
+    "Every Saturday",
+    "Custom Dates Available"
+  ]
+}

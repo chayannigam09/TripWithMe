@@ -22,7 +22,7 @@ export default function TourOverview({
           About This Tour
         </h3>
 
-        <p className="text-slate-700 leading-8">
+        <p className="text-slate-700 leading-7">
           {tour.overview}
         </p>
 

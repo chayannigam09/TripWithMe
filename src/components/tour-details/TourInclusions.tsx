@@ -22,7 +22,7 @@ export default function TourInclusions({
 
           <div className="absolute left-0 top-0 h-full w-1 bg-emerald-500" />
 
-          <div className="flex items-center gap-3 mb-8">
+          <div className="flex items-center gap-3 mb-4">
             <CheckCircle
               size={28}
               className="text-emerald-400"
@@ -33,7 +33,7 @@ export default function TourInclusions({
             </h3>
           </div>
 
-          <div className="space-y-5">
+          <div className="space-y-2">
 
             {inclusions.map((item, index) => (
               <div
@@ -45,7 +45,7 @@ export default function TourInclusions({
                   className="text-emerald-400 mt-1 shrink-0"
                 />
 
-                <p className="text-emerald-600 leading-relaxed">
+                <p className="text-emerald-600">
                   {item}
                 </p>
               </div>
@@ -60,7 +60,7 @@ export default function TourInclusions({
 
           <div className="absolute left-0 top-0 h-full w-1 bg-red-500" />
 
-          <div className="flex items-center gap-3 mb-8">
+          <div className="flex items-center gap-3 mb-4">
             <XCircle
               size={28}
               className="text-red-400"
@@ -71,7 +71,7 @@ export default function TourInclusions({
             </h3>
           </div>
 
-          <div className="space-y-5">
+          <div className="space-y-2">
 
             {exclusions.map((item, index) => (
               <div
@@ -83,7 +83,7 @@ export default function TourInclusions({
                   className="text-red-400 mt-1 shrink-0"
                 />
 
-                <p className="text-red-500 leading-relaxed">
+                <p className="text-red-500">
                   {item}
                 </p>
               </div>

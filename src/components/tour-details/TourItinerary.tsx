@@ -71,7 +71,7 @@ export default function TourItinerary({ itinerary }: Props) {
                 >
                   <div className="px-8 pb-6">
 
-                    <ul className="space-y-3 text-gray-700">
+                    <ul className="space-y-1 text-gray-700">
 
                       {day.activities.map(
                         (activity, index) => (
