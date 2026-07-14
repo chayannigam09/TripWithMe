@@ -46,9 +46,7 @@ const Services = () => {
             <span className="text-[#2E7DDB]">Me</span>
             ?
           </h2>
-          <p className="text-md text-gray-600 max-w-3xl mx-auto">
-            We leverage cutting-edge technology to make your travel experience seamless, safe, and unforgettable
-          </p>
+          <p className="text-md text-gray-600 max-w-3xl mx-auto">We make every journey affordable, comfortable, and memorable with carefully planned trips, trusted services, and unforgettable travel experiences.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

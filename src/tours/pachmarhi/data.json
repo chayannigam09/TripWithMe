@@ -28,67 +28,69 @@
     "itinerary": [
         {
             "day": 1,
-            "title": "Departure from Indore",
+            "title": "Departure from Indore | Journey Begins",
             "activities": [
-                "As twilight descends, a sense of adventure stirs in the air — the journey to Pachmarhi is about to unfold.",
-                "Connect with your fellow travelers and get ready to dive into an unforgettable escape.",
-                "Leave behind the familiar sights as we set out on our overnight expedition.",
-                "Warm introductions and group bonding kick off the experience.",
-                "Indore: 10:00 PM – Radisson Square",
-                "Bhopal: 3:30 AM – Lal Ghati & ISBT",
-                "Pipariya: 6:00 AM"
+                "As the sun sets, it's time to leave the city behind and begin an unforgettable journey to the Queen of Satpura – Pachmarhi.",
+                "Meet your fellow travelers, complete the boarding process, and get ready for an exciting adventure ahead.",
+                "Enjoy fun introductions, group bonding, music, and a lively atmosphere as we travel overnight.",
+                "Relax and unwind as we make our way through the scenic highways towards Pachmarhi.",
+                "Boarding Points:",
+                "📍 Indore – 10:00 PM | Radisson Square",
+                "📍 Bhopal – 3:30 AM | Lal Ghati & ISBT",
+                "📍 Pipariya – 6:00 AM"
             ]
         },
         {
             "day": 2,
-            "title": "Arrival at Pachmarhi | Satpura exploration",
+            "title": "Arrival at Pachmarhi | Explore the Queen of Satpura",
             "activities": [
-                "Awaken to a refreshing new day in the enchanting Queen of Satpura – Pachmarhi.",
-                "Kickstart your morning with a wholesome breakfast to gear up for the day’s adventures.",
-                "Dive into some fun with an exciting pool party to set the vibe!",
-                "Proceed with the check-in process at the hotel (early check-in subject to availability), freshen up, and prepare for a day of exploration.",
-                "Set off for a scenic journey through Pachmarhi’s iconic gems: Choragarh Mahadev (Optional, depending on time), Bada Mahadev, Gupt Mahadev, Green Valley, Pachmarhi Lake",
-                "As evening approaches, relish a delightful dinner and unwind with an overnight stay at the hotel.✨ Later, enjoy a lively music night and engaging group activities at the resort.",
-                "Note: Sightseeing is subject to availability. we are not liable for missed spots due to factors such as time constraints, weather, group delays, or mechanical issues."
+                "Wake up to the fresh mountain air of Pachmarhi, the beautiful Queen of Satpura, and get ready for an exciting day ahead.",
+                "Enjoy a delicious breakfast before beginning your unforgettable journey through nature and adventure.",
+                "Have fun and relax with an exciting pool party at the resort.",
+                "Complete your hotel check-in (early check-in is subject to availability), freshen up, and prepare for sightseeing.",
+                "Explore Pachmarhi's famous attractions, including Bada Mahadev, Gupt Mahadev, Green Valley, Pachmarhi Lake, and the optional Chauragarh Mahadev trek (subject to time and group preference).",
+                "After an adventurous day, enjoy a delicious dinner followed by a fun-filled music night, group games, and memorable moments with your fellow travelers at the resort.",
+                "Please Note: The sightseeing itinerary may change due to weather conditions, local authority restrictions, traffic, time constraints, or unforeseen circumstances. TripWithMe will make every effort to cover the planned attractions."
             ]
         },
         {
             "day": 3,
             "title": "Adventure continues | Gyspsy safari | waterfall | sunset point",
             "activities": [
-                "Begin your day with an early wake-up call and energize yourself with a delightful breakfast.",
-                "Check out from the resort and gather for a short trip briefing before diving into the day's excitement.",
-                "Get ready for a thrilling day of adventure with an exhilarating gypsy ride through the serene beauty of Pachmarhi.",
-                "Prepare to explore nature’s marvels and iconic landmarks, including: Jata Shankar, Pandav Caves, Ramya Kund, Bee Fall, Jal Gali, Reechgarh, Adbhut Drashya (Amazing Views), Forest Museum, Dhoopgarh for breathtaking sunrise and sunset points,And unwind at the vibrant hippie cafes in the Pachmarhi market.",
-                "Wrap up your day with a delicious dinner, then pack up your bags—full of memories—and prepare for your journey back home."
+                "Start your morning with a refreshing breakfast and get ready for another day of adventure.",
+                "Check out from the resort and receive a quick briefing before heading out for the day's sightseeing.",
+                "Enjoy an exciting gypsy safari as you explore the lush forests and scenic landscapes of Pachmarhi.",
+                "Visit Pachmarhi's most iconic attractions, including Jata Shankar, Pandav Caves, Ramya Kund, Bee Fall, Jal Gali, Reechgarh, Adbhut Drashya (Amazing View), Forest Museum, and the famous Dhoopgarh Sunset Point. Later, relax and explore the vibrant cafés and local market.",
+                "After a delicious dinner, begin your journey back home with unforgettable memories, beautiful photographs, and new friendships."
             ]
         },
         {
             "day": 4,
-            "title": "Arrival at your home with lots of memories with strangers",
+            "title": "Returning home with memories and friends for life.",
             "activities": [
-                "Drop Points: Bhopal: 2:00 AM and Indore: 6:30 AM",
-                "Though the trip comes to an end, the memories will stay with you forever.",
-                "You’re now officially a #TravelTrekker and a proud part of Central India’s fastest-growing and coolest travel community!",
-                "We look forward to seeing you on many more exciting adventures ahead.",
-                "Until then, remember our motto: Work. Travel. Repeat. 🌍✈️💼"
+                "Estimated Drop Points: Bhopal: 2:00 AM and Indore: 6:30 AM",
+                "Every journey has a destination, but the memories and friendships you made along the way will stay with you forever.",
+                "Thank you for traveling with TripWithMe. We hope this trip brought you unforgettable moments, breathtaking views, and stories you'll love to share.",
+                "We look forward to exploring many more destinations with you.",
+                "🌍 Until next time... ✨ Explore More. Spend Less. ✈️ Happy Travels!"
             ]
         }
     ],
     "inclusions": [
-        "Trip Captain: Experienced Trip Captain (Only IF 12+ Members In A group)",
-        "Accommodation: 1 Night Accommodation in Resort/Hotel With 2 Overnight journey",
-        "Meals: A total of 4 meals (2 breakfasts and 2 dinners). Kindly note, considering the remoteness of the place, the supply of breakfast and dinner might have limited varieties.",
-        "Gypsy: Gypsy Safari (1 Day) Along will all Forest Charges, guide charges & Entry tickets",
-        "Traveler: Everyday commute by a Non AC tempo traveler/Sedan/SUV. All inner line permits for the trip; driver night charges, toll tax, parking charges."
+        "Experienced Trip Captain throughout the trip (Available for groups of 12 or more travelers).",
+        "Comfortable accommodation for 1 night in a hotel/resort along with 2 overnight journeys.",
+        "Meals: 2 Breakfasts & 2 Dinners. Please note that due to the remote location of Pachmarhi, meal options may be limited, but hygiene and quality will be maintained.",
+        "1-Day Gypsy Safari, including forest permits, entry tickets, guide charges, and all applicable safari fees.",
+        "Comfortable transportation throughout the trip by Tempo Traveller, Sedan, or SUV (depending on group size), including toll taxes, parking charges, driver allowances, and all required permits."
     ],
     "exclusions": [
-        "Expenses: Any personal expenses.",
-        "Transport: Local vehicle charges may apply if unforeseen circumstances arise due to heavy crowd or if gypsy vehicles are sold out.",
-        "Natural Calamities",
-        "Meals: Any kind of food items or beverages that are not included in the package, like alcoholic drinks, mineral water, refreshments/lunches.",
-        "Tax: 5% Tax",
-        "Priority High: Anything not mentioned in the inclusion."
+        "Personal expenses such as shopping, laundry, phone calls, tips, or any other individual purchases.",
+        "Additional local transportation charges, if required due to heavy crowds, road closures, or unavailability of gypsy vehicles.",
+        "Any expenses arising due to natural calamities, adverse weather conditions, landslides, roadblocks, government restrictions, or other unforeseen circumstances.",
+        "Lunch, snacks, beverages, mineral water, alcoholic drinks, and any meals not specifically mentioned in the inclusions.",
+        "5% GST (if applicable).",
+        "Adventure activities, optional sightseeing, or entry fees not mentioned in the inclusions.",
+        "Anything not specifically mentioned under the 'Inclusions' section."
     ],
     "thingsToKnow": [
         {
@@ -183,7 +185,7 @@
         },
         {
             "title": "Damage to Property",
-            "content": "Any loss or damage to resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
+            "content": "Any loss or damage to hotel/resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
         },
         {
             "title": "Loss or Theft",
@@ -199,7 +201,7 @@
         },
         {
             "title": "Booking Confirmation",
-            "content": "Slots at the resort or accommodation are confirmed only after receipt of full payment."
+            "content": "Slots at the hotel/resort or accommodation are confirmed only after receipt of full payment."
         },
         {
             "title": "Injury & Liability",
@@ -237,11 +239,11 @@
     "faq": [
         {
             "question": "Is pickup and drop included?",
-            "answer": "Yes, pickup and drop from Pipariya Railway Station is included."
+            "answer": "Yes, pickup and drop from Indore|Dewas|Bhopal and Pipariya Railway Station is included."
         },
         {
             "question": "Are meals included?",
-            "answer": "No, meals are not included in this package."
+            "answer": "Yes, 2 Brakfast and 2 Dinner are included in this package."
         },
         {
             "question": "Is gypsy sightseeing included?",
