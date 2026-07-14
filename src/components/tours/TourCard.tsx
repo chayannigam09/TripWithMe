@@ -6,9 +6,9 @@ export default function TourCard({ tour }: any) {
   return (
     <div className="bg-white rounded-lg overflow-hidden border border-slate-400 hover:border-blue-500 transition">
 
-      <div className="grid md:grid-cols-[320px_1fr] h-72">
+      <div className="grid md:grid-cols-[320px_1fr] md:h-72">
 
-        <img src={tour.thumbnail} alt={tour.title} className="h-full w-full object-cover" />
+        <img src={tour.thumbnail} alt={tour.title} className="h-72 md:h-full w-full object-cover" />
 
         <div className="p-6">
 
@@ -34,7 +34,7 @@ export default function TourCard({ tour }: any) {
           </p>
 
           <div className="flex gap-4 mt-5">
-            <span className="bg-slate-800 px-4 py-2 rounded-full text-white">
+            <span className="bg-slate-800 px-4 py-2 rounded-lg text-white">
               {tour.duration}
             </span>
           </div>
@@ -43,7 +43,7 @@ export default function TourCard({ tour }: any) {
             onClick={() =>
               navigate(`/tour-details/${tour.slug}`)
             }
-            className="mt-2 px-4 py-2 cursor-pointer rounded-full bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
+            className="mt-2 px-4 py-2 cursor-pointer rounded-lg bg-gradient-to-r from-blue-500 to-purple-600 text-white font-semibold"
           >
             View Details →
           </button>
