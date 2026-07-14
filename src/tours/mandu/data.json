@@ -1,48 +1,42 @@
 {
-  "id": 2,
-  "slug": "maheshwar",
-  "title": "Jam Gate | Maheshwar | Sahastradhara",
-  "location": "Maheshwar, Madhya Pradesh",
+  "id": 1,
+  "slug": "mandu",
+  "title": "Mandu - City of Joy",
+  "location": "Mandu, Madhya Pradesh",
   "duration": "1 Day",
-  "price": 999,
+  "price": 799,
   "rating": 4.8,
-  "thumbnail": "/tours/maheshwar/1.jpg",
+  "thumbnail": "/tours/mandu/1.jpg",
   "gallery": [
-    "/tours/maheshwar/1.jpg",
-    "/tours/maheshwar/2.jpg",
-    "/tours/maheshwar/3.jpg",
-    "/tours/maheshwar/4.jpg",
-    "/tours/maheshwar/5.jpg",
-    "/tours/maheshwar/06.jpg",
-    "/tours/maheshwar/07.jpg",
-    "/tours/maheshwar/08.jpg"
+    "/tours/mandu/1.jpg",
+    "/tours/mandu/2.jpg",
+    "/tours/mandu/3.jpg",
+    "/tours/mandu/4.jpg",
+    "/tours/mandu/5.jpg"
   ],
   "highlights": [
-    "Jam Gate",
-    "Maheshwar Fort",
-    "Narmada Boating",
-    "Sahastradhara",
-    "Photography",
-    "Waterfalls"
+    "Jahaz Mahal",
+    "Hindola Mahal",
+    "Rani Roopmati Pavilion",
+    "Baz Bahadur Palace",
+    "Rewa Kund",
+    "Scenic Viewpoints",
+    "Seasonal Monsoon Waterfalls"
   ],
-  "overview": "Escape the city for a perfect one-day trip to Jam Gate, Maheshwar, and Sahastradhara, blending scenic views, heritage charm, and serene nature.",
+  "overview": "Escape the city and experience the beauty of Mandav, the City of Joy. Explore magnificent forts, historic monuments, breathtaking viewpoints, and seasonal waterfalls while enjoying delicious local cuisine with a fun-filled group journey.",
   "itinerary": [
     {
       "day": 1,
-      "title": "Jam Gate • Maheshwar • Sahastradhara",
+      "title": "Explore the Historic City of Mandav",
       "activities": [
-        "06:00 AM – Departure from Indore.",
-        "08:00 AM – Breakfast stop near Jam Gate.",
-        "Explore Jam Gate and enjoy panoramic valley views.",
-        "10:30 AM – Proceed towards Maheshwar.",
-        "Visit Ahilyabai Fort and Narmada Ghats.",
-        "Enjoy boating on the Narmada River (optional, self-paid).",
-        "02:00 PM – Lunch at Maheshwar.",
-        "03:00 PM – Departure for Sahastradhara.",
-        "Explore streams, waterfalls, and nature trails.",
-        "05:30 PM – Tea and snacks break.",
-        "06:30 PM – Return journey to Indore.",
-        "08:30 PM – Arrival in Indore."
+        "Early morning departure from Indore from the selected pickup point.",
+        "Enjoy a delicious breakfast on the way.",
+        "Reach Mandav and begin exploring its magnificent historical monuments.",
+        "Visit Jahaz Mahal, Hindola Mahal, Baz Bahadur Palace, Rani Roopmati Pavilion, and Rewa Kund.",
+        "Capture stunning photographs at scenic viewpoints and enjoy seasonal waterfalls during the monsoon.",
+        "Relish an authentic Dal Bafla lunch.",
+        "Spend leisure time exploring the beauty of Mandav before starting the return journey.",
+        "Reach Indore by evening with unforgettable memories."
       ]
     }
   ],
@@ -56,10 +50,10 @@
     "Photography Assistance"
   ],
   "exclusions": [
-    "Boating Charges",
-    "Personal Expenses",
-    "Travel Insurance",
-    "Anything not mentioned in inclusions"
+    "Personal expenses",
+    "Entry tickets (if applicable)",
+    "Snacks, beverages & meals that is not mentioned",
+    "Anything not mentioned under 'Inclusions'"
   ],
   "thingsToCarry": [
     {
@@ -85,12 +79,12 @@
       "description": "This is a same-day return trip from Indore."
     },
     {
-      "title": "Boating",
-      "description": "Boating charges are not included and must be paid separately."
+      "title": "Accommodation",
+      "description": "Accommodation Not applicable – one-day trip."
     },
     {
-      "title": "Weather",
-      "description": "Weather near Sahastradhara may vary, carry light rain protection during monsoon."
+      "title": "Info",
+      "description": "Entry tickets included in trip cost."
     }
   ],
   "importantNotes": [
@@ -104,11 +98,11 @@
     },
     {
       "type": "success",
-      "text": "Respect local culture and nature."
+      "text": "Monuments are spread out – expect a good amount of walking."
     },
     {
       "type": "info",
-      "text": "Check-in and check-out timings depend on hotel policy, Follow your trip captain's instructions."
+      "text": "Keep cash handy – limited UPI acceptance at small vendors."
     }
   ],
   "policies": [
@@ -212,11 +206,11 @@
   "faq": [
     {
       "question": "Is breakfast included?",
-      "answer": "Yes, breakfast is included."
+      "answer": "Yes, breakfast and authentic Dal Bafla lunch are included in the package."
     },
     {
-      "question": "Is boating included?",
-      "answer": "No, boating charges are to be paid directly at the location."
+      "question": "What type of vehicle will be provided?",
+      "answer": "An AC or Non-AC vehicle will be provided depending on the group size."
     },
     {
       "question": "Can beginners join this trip?",
