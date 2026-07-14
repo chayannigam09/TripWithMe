@@ -6,7 +6,7 @@ export default function TourCard({ tour }: any) {
   return (
     <div className="bg-white rounded-lg overflow-hidden border border-slate-400 hover:border-blue-500 transition">
 
-      <div className="grid md:grid-cols-[320px_1fr] h-65">
+      <div className="grid md:grid-cols-[320px_1fr] h-72">
 
         <img src={tour.thumbnail} alt={tour.title} className="h-full w-full object-cover" />
 
