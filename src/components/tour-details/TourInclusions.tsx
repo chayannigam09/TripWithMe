@@ -28,7 +28,7 @@ export default function TourInclusions({
               className="text-emerald-400"
             />
 
-            <h3 className="text-2xl font-bold text-emerald-600">
+            <h3 className="text-2xl font-bold text-emerald-700">
               Included
             </h3>
           </div>
@@ -42,10 +42,10 @@ export default function TourInclusions({
               >
                 <CheckCircle
                   size={20}
-                  className="text-emerald-400 mt-1 shrink-0"
+                  className="text-emerald-500 mt-1 shrink-0"
                 />
 
-                <p className="text-emerald-600">
+                <p className="text-emerald-700">
                   {item}
                 </p>
               </div>
@@ -66,7 +66,7 @@ export default function TourInclusions({
               className="text-red-400"
             />
 
-            <h3 className="text-2xl font-bold text-red-500">
+            <h3 className="text-2xl font-bold text-red-400">
               Not Included
             </h3>
           </div>
@@ -83,7 +83,7 @@ export default function TourInclusions({
                   className="text-red-400 mt-1 shrink-0"
                 />
 
-                <p className="text-red-500">
+                <p className="text-red-400">
                   {item}
                 </p>
               </div>
