@@ -113,7 +113,7 @@ const Footer = () => {
           </div> */}
         </div>
         <div className="border-t border-gray-800 mt-4 p-2">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 md:gap-8 text-center md:text-left">
             <div className="flex items-center justify-center md:justify-start">
               <Mail className="h-5 w-5 text-blue-400 mr-2" />
               <span className="text-gray-300">tripwithme.indore@gmail.com</span>
