@@ -1,96 +1,96 @@
 {
     "id": 1,
-    "slug": "pachmarhi",
-    "title": "Pachmarhi Weekend Getaway",
-    "location": "Pachmarhi, Madhya Pradesh",
+    "slug": "udaipur",
+    "title": "Udaipur - City of Lakes",
+    "location": "Udaipur, Rajasthan",
     "duration": "3 Nights / 2 Days",
-    "price": 4999,
+    "price": 3999,
     "rating": 4.8,
     "reviews": 120,
     "pickup": "Indore",
-    "thumbnail": "/tours/pachmarhi/2.jpg",
+    "thumbnail": "/tours/udaipur/1.jpg",
     "gallery": [
-        "/tours/pachmarhi/03.jpg",
-        "/tours/pachmarhi/2.jpg",
-        "/tours/pachmarhi/3.jpg",
-        "/tours/pachmarhi/4.jpg",
-        "/tours/pachmarhi/02.jpg"
+        "/tours/udaipur/11.jpg",
+        "/tours/udaipur/2.jpg",
+        "/tours/udaipur/3.jpg",
+        "/tours/udaipur/4.jpg",
+        "/tours/udaipur/5.jpg"
     ],
     "highlights": [
-        "Explore the Queen of Satpura",
-        "Witness breathtaking sunset at Dhoopgarh",
-        "Visit ancient Pandav Caves",
-        "Enjoy scenic Bee Falls",
-        "Gypsy sightseeing included",
-        "Comfortable deluxe hotel stay"
+        "Pichola Lake",
+        "Bahubali Hills",
+        "City Palace",
+        "Sajjangarh Fort",
+        "Saheliyon ki Bari"
     ],
-    "overview": "Embark on a magical group getaway to Pachmarhi, the Queen of Satpura, with TripWithMe as your trusted companion. Nestled in the heart of the Satpura Range, this scenic retreat offers lush forests, serene waterfalls, and breathtaking views. Kick off the adventure with a lively pool party with DJ, followed by a thrilling gypsy safari through the wilds of Satpura. Evenings come alive with music nights, live performances, games, and unforgettable bonding under the stars. Explore iconic spots like Bee Fall, Dhoopgarh, Jata Shankar, and the beautiful Chouragarh Mahadev trek, all while we handle the details. Let TripWithMe guide you through a trip full of fun, adventure, and lifelong memories.",
+    "overview": "Discover the royal beauty of Udaipur with TripWithMe on an unforgettable group adventure. From peaceful lakes and majestic palaces to scenic viewpoints and vibrant local markets, every moment is filled with culture, history, and breathtaking views. Whether you're traveling solo, with friends, or as a couple, you'll experience fun, comfort, and meaningful connections throughout the journey. With experienced Trip Captains, well-planned stays, and seamless travel arrangements, all you need to do is relax, explore, and create memories that last a lifetime. Come as a traveler, leave with unforgettable experiences and new friendships.",
     "itinerary": [
         {
             "day": 1,
-            "title": "Departure from Indore | Journey Begins",
+            "title": "Departure from Indore | Journey to Udaipur",
             "activities": [
-                "As the sun sets, it's time to leave the city behind and begin an unforgettable journey to the Queen of Satpura – Pachmarhi.",
-                "Meet your fellow travelers, complete the boarding process, and get ready for an exciting adventure ahead.",
-                "Enjoy fun introductions, group bonding, music, and a lively atmosphere as we travel overnight.",
-                "Relax and unwind as we make our way through the scenic highways towards Pachmarhi.",
+                "Meet your fellow travelers at the boarding point and kick off the journey with fun introductions and group bonding.",
+                "Board the '19315 Veer Bhumi Express' and begin your exciting overnight train journey to the City of Lakes – Udaipur.",
+                "Relax, enjoy the scenic journey, share stories, play games, and make new friends along the way.",
                 "Boarding Points:",
-                "📍 Indore – 10:00 PM | Radisson Square",
-                "📍 Bhopal – 3:30 AM | Lal Ghati & ISBT",
-                "📍 Pipariya – 6:00 AM"
+                "📍 Indore – 5:40 PM",
+                "📍 Ujjain – 7:20 PM",
+                "Expected Arrival:",
+                "📍 Udaipur – Around 4:30 AM",
+                "✨ Enjoy an overnight train journey filled with excitement, conversations, and unforgettable travel vibes."
             ]
         },
         {
             "day": 2,
-            "title": "Arrival at Pachmarhi | Explore the Queen of Satpura",
+            "title": "Arrival in Udaipur | Explore the Hidden Gems",
             "activities": [
-                "Wake up to the fresh mountain air of Pachmarhi, the beautiful Queen of Satpura, and get ready for an exciting day ahead.",
-                "Enjoy a delicious breakfast before beginning your unforgettable journey through nature and adventure.",
-                "Have fun and relax with an exciting pool party at the resort.",
-                "Complete your hotel check-in (early check-in is subject to availability), freshen up, and prepare for sightseeing.",
-                "Explore Pachmarhi's famous attractions, including Bada Mahadev, Gupt Mahadev, Green Valley, Pachmarhi Lake, and the optional Chauragarh Mahadev trek (subject to time and group preference).",
-                "After an adventurous day, enjoy a delicious dinner followed by a fun-filled music night, group games, and memorable moments with your fellow travelers at the resort.",
-                "Please Note: The sightseeing itinerary may change due to weather conditions, local authority restrictions, traffic, time constraints, or unforeseen circumstances. TripWithMe will make every effort to cover the planned attractions."
+                "Arrive in Udaipur early in the morning and witness the serene beauty of sunrise at the picturesque Fateh Sagar Lake.",
+                "Check in to the hotel (early check-in subject to availability), freshen up, and enjoy a delicious breakfast.",
+                "Meet your Trip Captain for a quick trip briefing before setting out to explore the city's hidden treasures.",
+                "Visit the scenic Badi Lake, trek to the stunning Bahubali Hills viewpoint, explore the cultural village of Shilpgram, and end the day with breathtaking sunset views from Sajjangarh (Monsoon Palace).",
+                "Capture beautiful moments, enjoy the peaceful surroundings, and soak in the royal charm of Udaipur.",
+                "Return to the hotel for a delicious dinner and a comfortable overnight stay.",
+                "✨ Highlights: Sunrise at Fateh Sagar Lake • Bahubali Hills • Badi Lake • Shilpgram • Sunset at Sajjangarh Palace"
             ]
         },
         {
             "day": 3,
-            "title": "Adventure continues | Gyspsy safari | waterfall | sunset point",
+            "title": "Royal Udaipur Sightseeing | Journey Back Home",
             "activities": [
-                "Start your morning with a refreshing breakfast and get ready for another day of adventure.",
-                "Check out from the resort and receive a quick briefing before heading out for the day's sightseeing.",
-                "Enjoy an exciting gypsy safari as you explore the lush forests and scenic landscapes of Pachmarhi.",
-                "Visit Pachmarhi's most iconic attractions, including Jata Shankar, Pandav Caves, Ramya Kund, Bee Fall, Jal Gali, Reechgarh, Adbhut Drashya (Amazing View), Forest Museum, and the famous Dhoopgarh Sunset Point. Later, relax and explore the vibrant cafés and local market.",
-                "After a delicious dinner, begin your journey back home with unforgettable memories, beautiful photographs, and new friendships."
+                "Start your day with a refreshing breakfast, complete the hotel check-out, and get ready to explore the royal charm of Udaipur.",
+                "Visit the city's iconic attractions, including Saheliyon Ki Bari, City Palace, Jagdish Temple, Ghangaur Ghant, the beautiful Lake Pichola, and the vibrant local markets.",
+                "Spend time admiring Udaipur's rich heritage, stunning architecture, and peaceful lakeside atmosphere while capturing unforgettable moments.",
+                "After dinner, board your overnight train for the return journey with countless memories, beautiful photographs, and new friendships.",
+                "✨ Highlights: City Palace • Lake Pichola • Saheliyon Ki Bari • Jagdish Temple • Karni Mata Temple • Local Market"
             ]
         },
         {
             "day": 4,
-            "title": "Returning home with memories and friends for life.",
+            "title": "Homeward Bound | Until the Next Adventure",
             "activities": [
-                "Estimated Drop Points: Bhopal: 2:00 AM and Indore: 6:30 AM",
-                "Every journey has a destination, but the memories and friendships you made along the way will stay with you forever.",
-                "Thank you for traveling with TripWithMe. We hope this trip brought you unforgettable moments, breathtaking views, and stories you'll love to share.",
-                "We look forward to exploring many more destinations with you.",
-                "🌍 Until next time... ✨ Explore More. Spend Less. ✈️ Happy Travels!"
+                "Reach Indore by around 7:00 AM with a heart full of unforgettable memories.",
+                "The journey may come to an end, but the friendships, laughter, and experiences will stay with you forever.",
+                "Thank you for being a part of the TripWithMe family. We can't wait to travel with you again.",
+                "✨ Explore More. Spend Less. See you on the next trip!"
             ]
         }
     ],
     "inclusions": [
-        "Experienced Trip Captain throughout the trip (Available for groups of 12 or more travelers).",
-        "Comfortable accommodation for 1 night in a hotel/resort along with 2 overnight journeys.",
-        "Meals: 2 Breakfasts & 2 Dinners. Please note that due to the remote location of Pachmarhi, meal options may be limited, but hygiene and quality will be maintained.",
-        "1-Day Gypsy Safari, including forest permits, entry tickets, guide charges, and all applicable safari fees.",
-        "Comfortable transportation throughout the trip by Tempo Traveller, Sedan, or SUV (depending on group size), including toll taxes, parking charges, driver allowances, and all required permits."
+        "Experienced Trip Captain (For groups of 12+ travelers).",
+        "Train Journey (As per selected package).",
+        "1 Night stay in a verified hotel.",
+        "Music Night & Group Bonding Activities.",
+        "2 Breakfasts & 2 Dinners.",
+        "Comfortable local transportation for sightseeing.",
+        "All toll taxes, parking charges & permits."
     ],
     "exclusions": [
-        "Personal expenses such as shopping, laundry, phone calls, tips, or any other individual purchases.",
-        "Additional local transportation charges, if required due to heavy crowds, road closures, or unavailability of gypsy vehicles.",
-        "Any expenses arising due to natural calamities, adverse weather conditions, landslides, roadblocks, government restrictions, or other unforeseen circumstances.",
-        "Lunch, snacks, beverages, mineral water, alcoholic drinks, and any meals not specifically mentioned in the inclusions.",
+        "Entry fees to attractions and monuments.",
+        "Lunch, snacks, beverages & personal food expenses.",
+        "Personal shopping and other individual expenses.",
+        "Medical, emergency & travel insurance expenses.",
         "5% GST (if applicable).",
-        "Adventure activities, optional sightseeing, or entry fees not mentioned in the inclusions.",
-        "Anything not specifically mentioned under the 'Inclusions' section."
+        "Anything not specifically mentioned in the 'Inclusions' section."
     ],
     "thingsToKnow": [
         {
@@ -109,7 +109,7 @@
     "thingsToCarry": [
         {
             "title": "Clothing",
-            "description": "Comfortable clothes, jacket and raincoat."
+            "description": "Comfortable clothes ."
         },
         {
             "title": "Footwear",
@@ -117,7 +117,7 @@
         },
         {
             "title": "Documents",
-            "description": "Government ID proof."
+            "description": "Government ID proof, Student ID."
         }
     ],
     "importantNotes": [
@@ -238,26 +238,47 @@
     ],
     "faq": [
         {
-            "question": "Is pickup and drop included?",
-            "answer": "Yes, pickup and drop from Indore|Dewas|Bhopal and Pipariya Railway Station is included."
+            "question": "What are the main attractions covered in this Udaipur trip?",
+            "answer": "This trip covers Udaipur's most iconic attractions, including City Palace, Lake Pichola, Fateh Sagar Lake, Sajjangarh (Monsoon Palace), Jagdish Temple, Saheliyon Ki Bari, Badi Lake, Bahubali Hills, Shilpgram, and vibrant local markets. The itinerary is designed to give you the perfect blend of royal heritage, scenic landscapes, and local culture."
         },
         {
-            "question": "Are meals included?",
-            "answer": "Yes, 2 Brakfast and 2 Dinner are included in this package."
+            "question": "What is the best time to visit Udaipur?",
+            "answer": "Udaipur is a year-round destination, but the best time depends on the experience you're looking for: October–March: Best for sightseeing and pleasant weather. July–September: Perfect for enjoying monsoon beauty and lush landscapes. April–June: Ideal for budget-friendly short trips despite the warmer weather."
         },
         {
-            "question": "Is gypsy sightseeing included?",
-            "answer": "Yes, gypsy sightseeing is included as per itinerary."
+            "question": "What activities can I enjoy during this trip?",
+            "answer": "🏞️ Lakeside sightseeing & scenic viewpoints 🏰 Heritage & palace exploration 🛍️ Café hopping & local market visits 🤝 Group bonding, fun activities & photography"
         },
         {
-            "question": "Is this package suitable for couples?",
-            "answer": "Yes, the package is suitable for couples, families and groups."
+            "question": "How do I reach the starting point of the trip?",
+            "answer": "The trip starts from Indore, which is well connected by road, rail, and air. You can easily reach the boarding point using your preferred mode of transport."
+        },
+        {
+            "question": "Can this trip be customized?",
+            "answer": "Yes! TripWithMe offers customized Udaipur packages for private groups, couples, families, and corporate trips. Contact us for a personalized itinerary."
         }
     ],
     "batches": [
-        "25 Jul 2026",
-        "08 Aug 2026",
-        "22 Aug 2026",
-        "05 Sep 2026"
+        "07 Aug 2026",
+        "14 Aug 2026",
+        "21 Aug 2026",
+        "28 Aug 2026",
+        "04 Sep 2026",
+        "11 Sep 2026",
+        "18 Sep 2026",
+        "25 Sep 2026",
+        "02 Oct 2026",
+        "09 Oct 2026",
+        "16 Oct 2026",
+        "23 Oct 2026",
+        "30 Oct 2026",
+        "06 Nov 2026",
+        "13 Nov 2026",
+        "20 Nov 2026",
+        "27 Nov 2026",
+        "04 Dec 2026",
+        "11 Dec 2026",
+        "18 Dec 2026",
+        "25 Dec 2026"
     ]
 }
