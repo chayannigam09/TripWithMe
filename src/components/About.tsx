@@ -117,7 +117,7 @@ const About = () => {
           </div>
         </div> */}
         <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-3xl p-8 md:p-12">
-          <h3 className="text-3xl font-bold text-center text-gray-900 dark:text-white mb-10">
+          <h3 className="text-3xl font-bold text-center text-gray-900 mb-10">
             Meet the Vision Behind{" "}
             <span className="text-[#F25A29]">Trip</span>
                 <span className="text-[#2FAE5B]">With</span>
@@ -131,7 +131,7 @@ const About = () => {
               className="w-36 h-36 rounded-full object-cover mx-auto mb-6 border-4 border-white shadow-xl"
             />
 
-            <h4 className="text-2xl font-bold text-gray-900 dark:text-white">
+            <h4 className="text-2xl font-bold text-gray-900">
               Chayan Nigam
             </h4>
 
@@ -139,7 +139,7 @@ const About = () => {
               Founder & CEO
             </p>
 
-            <p className="text-gray-600 dark:text-gray-300 leading-6 text-md">
+            <p className="text-gray-600 leading-6 text-md">
               Travel has the power to connect people, create unforgettable memories,
               and inspire new adventures.
               <br />

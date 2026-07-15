@@ -18,13 +18,13 @@ const Hero = () => {
 
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
+        <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">
           Travel Together<br />
           <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
            Explore Better with TripWithMe
           </span>
         </h1>
-        <p className="text-xl md:text-2xl text-gray-200 mb-12 max-w-3xl mx-auto">
+        <p className="text-xl md:text-2xl text-gray-200 mb-8 max-w-3xl mx-auto">
          Discover breathtaking destinations, travel with like-minded explorers, and create unforgettable memories through affordable, well-planned journeys designed for every adventure.</p>
 
         {/* Search Box */}
@@ -61,21 +61,21 @@ const Hero = () => {
         </div> */}
 
         {/* Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-white">
+        <div className="grid grid-cols-3 gap-3 text-white">
           <div>
-            <div className="text-4xl font-bold mb-2">100+</div>
+            <div className="text-2xl md:text-4xl font-bold mb-2">100+</div>
             <div className="text-gray-300">Happy Travelers</div>
           </div>
           <div>
-            <div className="text-4xl font-bold mb-2">10+</div>
+            <div className="text-2xl md:text-4xl font-bold mb-2">10+</div>
             <div className="text-gray-300">Destinations</div>
           </div>
           <div>
-            <div className="text-4xl font-bold mb-2">99%</div>
+            <div className="text-2xl md:text-4xl font-bold mb-2">99%</div>
             <div className="text-gray-300">Satisfaction Rate</div>
           </div>
         </div>
-      <button onClick={() => navigate("/popular-tours")} className="mt-4 px-8 py-3 text-white font-semibold rounded-full animate-bounce cursor-pointer bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transition-all duration-300">
+      <button onClick={() => navigate("/popular-tours")} className="mt-8 px-8 py-3 text-white font-semibold rounded-full animate-bounce cursor-pointer bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transition-all duration-300">
         GET STARTED 
       </button>
       </div>

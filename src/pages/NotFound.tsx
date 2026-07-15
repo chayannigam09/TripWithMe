@@ -17,11 +17,11 @@ export default function NotFound() {
           <span className="text-me">4</span>
         </h1>
 
-        <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
+        <h2 className="text-3xl font-bold text-gray-900 mb-4">
           Oops! You've Gone Off Route
         </h2>
 
-        <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
+        <p className="text-lg text-gray-600 mb-8 leading-relaxed">
           The destination you're looking for doesn't exist or may have been
           moved.
           <br />
