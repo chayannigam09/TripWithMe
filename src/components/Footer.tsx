@@ -33,9 +33,9 @@ const Footer = () => {
               <a href={url.instagram} target='_blank' className="bg-pink-600 p-3 rounded-lg hover:bg-pink-700 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" target='_blank' className="bg-blue-800 p-3 rounded-lg hover:bg-blue-900 transition-colors">
+              {/* <a href="#" target='_blank' className="bg-blue-800 p-3 rounded-lg hover:bg-blue-900 transition-colors">
                 <Linkedin className="h-5 w-5" />
-              </a>
+              </a> */}
             </div>
           </div>
 
