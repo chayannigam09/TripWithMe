@@ -31,7 +31,7 @@ export default function HomePopularTours({ tours }: Props) {
 
         <div className="flex justify-between items-center mb-6">
           <div>
-            <h2 className="text-4xl font-bold text-slate-900">
+            <h2 className="text-3xl font-bold text-slate-900">
               Popular Tours
             </h2>
           </div>

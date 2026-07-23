@@ -39,7 +39,7 @@ const Contact = () => {
     <section id="contact" className="mb-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-8">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-2">
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
             Get in Touch
           </h2>
           <p className="text-md text-gray-600 max-w-3xl mx-auto">
@@ -175,11 +175,11 @@ const Contact = () => {
             </div>
 
             {/* Quick Contact Options */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+            <div className="grid grid-cols-2 gap-6 mt-8">
               <div className="bg-blue-50 rounded-xl p-6 text-center">
                 <MessageCircle className="h-8 w-8 text-blue-600 mx-auto mb-4" />
-                <h4 className="font-bold text-gray-900 mb-2">Live Chat</h4>
-                <p className="text-gray-600 text-sm mb-4">Get instant answers to your questions</p>
+                {/* <h4 className="font-bold text-gray-900 mb-2">Live Chat</h4> */}
+                {/* <p className="text-gray-600 text-sm mb-4">Get instant answers to your questions</p> */}
                 <button className="text-blue-600 font-semibold hover:text-blue-700"><a
                   href={`https://wa.me/917583869015?text=${encodeURIComponent(
                     `Hi TripWithMe 👋, I am interested in your travel packages. Please share the details`
@@ -194,8 +194,8 @@ const Contact = () => {
 
               <div className="bg-green-50 rounded-xl p-6 text-center">
                 <Phone className="h-8 w-8 text-green-600 mx-auto mb-4" />
-                <h4 className="font-bold text-gray-900 mb-2">Call Us</h4>
-                <p className="text-gray-600 text-sm mb-4">Speak directly with our travel experts</p>
+                {/* <h4 className="font-bold text-gray-900 mb-2">Call Us</h4> */}
+                {/* <p className="text-gray-600 text-sm mb-4">Speak directly with our travel experts</p> */}
                 <button className="text-green-600 font-semibold hover:text-green-700">
                   <a href="tel:+917583869015">Call Now</a>
                 </button>
