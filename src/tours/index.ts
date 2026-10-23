@@ -4,6 +4,9 @@ import chardham from './cahrdham/data.json'
 import kashmir from './Kashmir/data.json';
 import mandu from './mandu/data.json'
 import udaipur from './udaipur/data.json'
+import puri from './puri/data.json'
+// import manali from './manali/data.json'
+
 
 export const tours = [
   maheshwar,
@@ -12,6 +15,8 @@ export const tours = [
   chardham,
   kashmir,
   udaipur,
+  puri,
+  // manali
   // pachmarhi,
   // maheshwar,
   // chardham,
