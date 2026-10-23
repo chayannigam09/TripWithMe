@@ -1,0 +1,283 @@
+{
+    "id": 1,
+    "slug": "puri",
+    "title": "Puri – The Spiritual Soul of Odisha",
+    "location": "Puri,Odisha ",
+    "duration": "3 Nights / 4 Days",
+    "price": 9999,
+    "rating": 4.5,
+    "reviews": 110,
+    "pickup": "Bhubaneswar",
+    "thumbnail": "/tours/puri/1.jpg",
+    "gallery": [
+        "/tours/puri/2.jpg",
+        "/tours/puri/9.jpg",
+        "/tours/puri/5.jpg",
+        "/tours/puri/6.jpg",
+        "/tours/puri/8.jpg"
+    ],
+    "highlights": [
+        "Pichola Lake",
+        "Bahubali Hills",
+        "City Palace",
+        "Sajjangarh Fort",
+        "Saheliyon ki Bari"
+    ],
+    "overview": "Discover the spiritual charm and coastal beauty of Puri with TripWithMe on an unforgettable group adventure. From the sacred Jagannath Temple and golden sandy beaches to breathtaking sea views and vibrant local markets, every moment is filled with spirituality, culture, and memorable experiences. Whether you're traveling solo, with friends, or as a couple, you'll enjoy fun, comfort, and meaningful connections throughout the journey. With experienced Trip Captains, well-planned stays, and seamless travel arrangements, all you need to do is relax, explore, and immerse yourself in the beauty of Odisha. Come as a traveler, leave with unforgettable memories and new friendships.",
+    "itinerary": [
+    {
+        "day": 1,
+        "title": "Bhubaneswar Sightseeing | Journey to Puri",
+        "activities": [
+            "Arrive in Bhubaneswar and meet your TripWithMe tour representative to begin your spiritual journey through Odisha.",
+            "Visit the sacred Lingaraj Temple, admire the peaceful surroundings of Bindusagar Lake, and seek blessings at Ananta Vasudev Temple.",
+            "Explore the ISKCON Temple and discover the ancient heritage of Odisha at the historic Udayagiri and Khandagiri Caves.",
+            "Proceed towards the magnificent Konark Sun Temple, a UNESCO World Heritage Site renowned for its remarkable architecture.",
+            "Enjoy the refreshing coastal atmosphere at Chandrabhaga Beach and capture beautiful memories by the sea.",
+            "After completing the sightseeing, proceed towards Puri, check in to the hotel, enjoy dinner, and relax overnight."
+        ]
+    },
+    {
+        "day": 2,
+        "title": "Shree Jagannath Puri Darshan | Spiritual Experiences",
+        "activities": [
+            "Wake up to a beautiful morning in Puri and enjoy a delicious breakfast at the hotel.",
+            "Visit the sacred Shree Jagannath Temple and seek the blessings of Lord Jagannath, Lord Balabhadra, and Devi Subhadra.",
+            "Witness the traditional flag-changing ceremony at the temple, subject to temple timings and availability.",
+            "Experience the divine atmosphere of Jagannath Dham and explore the spiritual significance of this sacred pilgrimage destination.",
+            "Visit Gundicha Temple and Maa Vimala Temple to discover more of Puri's rich religious heritage.",
+            "If available and permitted, experience the traditional Khichdi Prasadi at the temple.",
+            "In the evening, relax at Golden Beach, enjoy the coastal views, and spend quality time with your fellow travelers.",
+            "Return to the hotel for dinner and a comfortable overnight stay."
+        ]
+    },
+    {
+        "day": 3,
+        "title": "Chilika Lake Excursion | Temples & Scenic Views",
+        "activities": [
+            "Start your day with breakfast at the hotel and get ready to explore the spiritual and natural beauty around Puri.",
+            "Visit Bali Harachandi Mata Temple and seek blessings at this revered coastal shrine.",
+            "Proceed to Alarnath Temple, an important pilgrimage site associated with Lord Vishnu.",
+            "Continue towards Chilika Lake, Asia's largest brackish water lagoon, famous for its scenic landscapes and rich biodiversity.",
+            "Enjoy a boat ride, admire the beautiful island views, and look out for dolphins during the excursion, subject to weather and local operating conditions.",
+            "Capture memorable photographs and enjoy the peaceful surroundings of Chilika Lake.",
+            "After sightseeing, proceed towards Bhubaneswar enjoy dinner and a comfortable overnight stay."
+        ]   
+    },
+    {
+        "day": 4,
+        "title": "Departure from Bhubaneswar | Until the Next Journey",
+        "activities": [
+            "Complete your onward journey or departure arrangements from Bhubaneswar Railway Station or Airport, as applicable to your travel schedule.",
+            "Take home beautiful memories of Jagannath Puri, Odisha's ancient temples, scenic beaches, and the unforgettable Chilika Lake excursion.",
+            "Thank you for travelling with TripWithMe. We hope this spiritual journey brought you peace, happiness, and wonderful new experiences."
+        ]
+    }
+],
+    "inclusions": [
+        "Experienced Trip Captain (For groups of 12+ travelers).",
+        "Train Journey (As per selected package).",
+        "3 Night stay in a premium hotel.",
+        "Music Night & Group Bonding Activities.",
+        "3 Breakfasts & 3 Dinners.",
+        "Comfortable local transportation for sightseeing.",
+        "All toll taxes, parking charges & permits."
+    ],
+    "exclusions": [
+        "Entry fees to attractions and monuments.",
+        "Lunch, snacks, beverages & personal food expenses.",
+        "Personal shopping and other individual expenses.",
+        "Medical, emergency & travel insurance expenses.",
+        "5% GST (if applicable).",
+        "Anything not specifically mentioned in the 'Inclusions' section."
+    ],
+    "thingsToKnow": [
+        {
+            "title": "Trip Captain",
+            "description": "Friendly local tour leader."
+        },
+        {
+            "title": "Transport",
+            "description": "Everyday commute by Tempo Traveller/SUV."
+        },
+        {
+            "title": "Cancellation",
+            "description": "Booking is non-refundable after confirmation."
+        }
+    ],
+    "thingsToCarry": [
+        {
+            "title": "Clothing",
+            "description": "Comfortable clothes ."
+        },
+        {
+            "title": "Footwear",
+            "description": "Good trekking shoes."
+        },
+        {
+            "title": "Documents",
+            "description": "Government ID proof, Student ID."
+        }
+    ],
+    "importantNotes": [
+        {
+            "type": "danger",
+            "text": "Booking is non-refundable after confirmation."
+        },
+        {
+            "type": "warning",
+            "text": "Trips run on schedule. Please report on time, Itinerary may change due to weather conditions."
+        },
+        {
+            "type": "success",
+            "text": "Respect local culture and nature."
+        },
+        {
+            "type": "info",
+            "text": "Check-in and check-out timings depend on hotel policy, Follow your trip captain's instructions."
+        }
+    ],
+    "policies": [
+        {
+            "title": "Cancellation Policy",
+            "content": "If cancellations are made 60-30 days before the trip's start date, 10% of the total tour cost will be charged as cancellation fees. If cancellations are made 30 days before the trip's start date, 50% of the total tour cost will be charged as cancellation fees. If cancellations are made within 0-30 days before the trip's start date, 100% of the total tour cost will be charged as cancellation fees. In case of unforeseen weather conditions or government restrictions, certain activities may be canceled, and in such cases, the operator will try his best to provide an alternate feasible activity. However, no refund will be provided for the same."
+        },
+        {
+            "title": "Booking Policy",
+            "content": "Book your seats by depositing an advance of 50% per head to the below account and the rest has to be paid 1 day prior to the time of departure of the trip. Send Payment screenshot on the below numbers. And fill out the form which will be provided by us. Then booking will confirm accordingly.If you want to book any specific seat in the traveler then you have to pay Rs.300/- extra amount for booking specific seat number, (seats will be provided subject to availability basis)/ First come first basis."
+        },
+        {
+            "title": "Privacy Policy",
+            "content": "Your personal data is secure with us and only used for booking and communication purposes. We never share data with third parties."
+        },
+        {
+            "title": "Travel & Safety Policy",
+            "content": "We prioritize traveler safety and follow all government-issued travel advisories and guidelines."
+        },
+        {
+            "title": "Late Arrival Policy",
+            "content": "Participants arriving late may not be eligible for refunds or adjustments. Please arrive 15 minutes early."
+        },
+        {
+            "title": "Group Size Policy",
+            "content": "Some packages have a maximum group size limit. Please check the Group Size section for details."
+        },
+        {
+            "title": "Travel Insurance Policy",
+            "content": "While not mandatory, we highly recommend travel insurance for safety and peace of mind during your trip."
+        },
+        {
+            "title": "Prohibited Substances Policy",
+            "content": "TripWithMe strictly prohibits the use of narcotics, banned substances, weapons, fireworks, or toxic materials during tours. Violation may result in immediate removal without refund and possible legal action."
+        },
+        {
+            "title": "Accommodation Policy",
+            "content": "The amount given is based on a quad-sharing basis. An extra mattress will be provided for the extra person."
+        },
+        {
+            "title": "Eviction Policy",
+            "content": "The organizers reserve the right to evict any participant at any time without any refund if their actions violate any tour rules."
+        },
+        {
+            "title": "Safety Outside Premises",
+            "content": "TripWithMe is not responsible for your safety or whereabouts if you are outside the resort or campsite premises."
+        },
+        {
+            "title": "Damage to Property",
+            "content": "Any loss or damage to hotel/resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
+        },
+        {
+            "title": "Loss or Theft",
+            "content": "We are not responsible for the loss, theft, or damage of personal belongings during the trip."
+        },
+        {
+            "title": "Health Responsibility",
+            "content": "TripWithMe is not liable for illnesses, injuries, or health issues that may occur while traveling."
+        },
+        {
+            "title": "ID Requirement",
+            "content": "All guests must carry a valid government-issued ID card. Outside visitors must be pre-notified to management."
+        },
+        {
+            "title": "Booking Confirmation",
+            "content": "Slots at the hotel/resort or accommodation are confirmed only after receipt of full payment."
+        },
+        {
+            "title": "Injury & Liability",
+            "content": "Management accepts no responsibility for injuries or the loss/theft of personal property during the tour."
+        },
+        {
+            "title": "Transport Breakdown",
+            "content": "In case of any transport breakdown during the journey, participants will need to wait until repairs are completed. No backup transport will be provided."
+        },
+        {
+            "title": "Environmental Policy",
+            "content": "We request all participants to cooperate in keeping the environment clean, safe, and free from litter."
+        },
+        {
+            "title": "Registrations and Tickets Policy",
+            "content": "Registrations and tickets once booked cannot be exchanged, canceled, or refunded."
+        },
+        {
+            "title": "Event Rules",
+            "content": "Bonfire, music nights, and other activities are subject to local authority regulations and hotel/campsite policies."
+        },
+        {
+            "title": "Seating Arrangement",
+            "content": "Seats on buses, tempo travellers, or other vehicles are allocated on a first-come, first-served basis."
+        },
+        {
+            "title": "Enjoy & Respect",
+            "content": "Respect fellow travelers, follow all rules, and make the most of your adventure experience."
+        },
+        {
+            "title": "Important Note",
+            "content": "Numerous factors such as weather conditions, road situations, operational issues, and the physical ability of participants may cause itinerary changes. We reserve the right to modify schedules in the interest of safety, comfort, and the overall wellbeing of participants."
+        }
+    ],
+"faq": [
+  {
+    "question": "What are the main attractions covered in this Puri trip?",
+    "answer": "This trip covers Puri's most famous attractions, including the sacred Shree Jagannath Temple, Puri Beach, Golden Beach, Gundicha Temple, and the vibrant local markets. Depending on the itinerary, you can also explore the world-famous Konark Sun Temple, Chandrabhaga Beach, and the beautiful temples of Bhubaneswar. Enjoy the perfect blend of spirituality, coastal beauty, cultural heritage, and unforgettable travel experiences."
+  },
+  {
+    "question": "What is the best time to visit Puri?",
+    "answer": "The best time to visit Puri is generally October to February, when the weather is pleasant for sightseeing and beach activities. March to May can be hot and humid, while June to September brings monsoon weather. If you want to experience the famous Rath Yatra festival, plan your trip around its dates and book your accommodation well in advance."
+  },
+  {
+    "question": "What activities can I enjoy during this trip?",
+    "answer": "🙏 Seek blessings at Shree Jagannath Temple 🌊 Enjoy relaxing walks along Puri Beach 🏛️ Explore ancient temples and cultural landmarks 📸 Capture beautiful coastal views 🛍️ Shop for local handicrafts and souvenirs 🤝 Enjoy group bonding, fun activities, and memorable travel experiences."
+  },
+  {
+    "question": "How do I reach the starting point of the trip?",
+    "answer": "The trip starts from Bhubaneswar, with travel arrangements depending on the selected package. You can reach Puri by train via Bhubaneswar, followed by a road transfer to Puri. Please check your package details for the exact boarding point, departure schedule, and included transportation."
+  },
+  {
+    "question": "Can this Puri Jagannath trip be customized?",
+    "answer": "Yes! TripWithMe offers customized travel plans for private groups, couples, families, and corporate travelers. You can personalize your itinerary to include Puri, the sacred Jagannath Temple, Konark Sun Temple, Bhubaneswar, and nearby beaches. Contact our team to plan a trip that matches your interests, budget, and travel dates."
+  }
+],
+    "batches": [
+        "07 Aug 2026",
+        "14 Aug 2026",
+        "21 Aug 2026",
+        "28 Aug 2026",
+        "04 Sep 2026",
+        "11 Sep 2026",
+        "18 Sep 2026",
+        "25 Sep 2026",
+        "02 Oct 2026",
+        "09 Oct 2026",
+        "16 Oct 2026",
+        "23 Oct 2026",
+        "30 Oct 2026",
+        "06 Nov 2026",
+        "13 Nov 2026",
+        "20 Nov 2026",
+        "27 Nov 2026",
+        "04 Dec 2026",
+        "11 Dec 2026",
+        "18 Dec 2026",
+        "25 Dec 2026"
+    ]
+}
