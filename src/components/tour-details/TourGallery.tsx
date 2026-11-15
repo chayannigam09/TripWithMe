@@ -1,11 +1,3 @@
-import { useEffect, useState } from "react";
-import {
-  ChevronLeft,
-  ChevronRight,
-  X,
-  Images,
-} from "lucide-react";
-
 interface Props {
   images: string[];
 }
@@ -13,95 +5,40 @@ interface Props {
 export default function TourGallery({
   images,
 }: Props) {
-  const [isOpen, setIsOpen] = useState(false);
-  const [currentIndex, setCurrentIndex] =
-    useState(0);
-
-  const openGallery = (index: number) => {
-    setCurrentIndex(index);
-    setIsOpen(true);
-  };
-
-  const nextImage = () => {
-    setCurrentIndex(
-      (prev) => (prev + 1) % images.length
-    );
-  };
-
-  const prevImage = () => {
-    setCurrentIndex(
-      (prev) =>
-        prev === 0
-          ? images.length - 1
-          : prev - 1
-    );
-  };
-
-  useEffect(() => {
-    const handleKeyDown = (
-      e: KeyboardEvent
-    ) => {
-      if (!isOpen) return;
-
-      if (e.key === "ArrowRight")
-        nextImage();
-
-      if (e.key === "ArrowLeft")
-        prevImage();
-
-      if (e.key === "Escape")
-        setIsOpen(false);
-    };
-
-    window.addEventListener(
-      "keydown",
-      handleKeyDown
-    );
-
-    return () =>
-      window.removeEventListener(
-        "keydown",
-        handleKeyDown
-      );
-  }, [isOpen]);
+  if (!images?.length) {
+    return null;
+  }
 
   return (
-    <>
-      <section className="max-w-7xl mx-auto py-1">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
+    <section className="max-w-7xl mx-auto py-1">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
+        <div
+          className="col-span-2 md:col-span-2 md:row-span-2
+             md:h-[450px]
+             overflow-hidden rounded-md cursor-pointer"
+        >
+          <img
+            loading="lazy"
+            src={images[0]}
+            alt="Main tour"
+            className="w-full h-full object-cover hover:scale-110 transition duration-500"
+          />
+        </div>
 
-          {/* Main Image */}
+        {images.slice(1, 5).map((img, index) => (
           <div
-            className="col-span-2 md:col-span-2 md:row-span-2
-               md:h-[450px]
-               overflow-hidden rounded-md cursor-pointer"
-            onClick={() => openGallery(0)}
+            key={`${img}-${index}`}
+            className="h-[150px] md:h-[220px] overflow-hidden rounded-md cursor-pointer"
           >
             <img
               loading="lazy"
-              src={images[0]}
-              alt="Main tour"
+              src={img}
+              alt={`Tour ${index + 2}`}
               className="w-full h-full object-cover hover:scale-110 transition duration-500"
             />
           </div>
-
-          {/* Small Images */}
-          {images.slice(1, 5).map((img, index) => (
-            <div
-              key={img}
-              onClick={() => openGallery(index + 1)}
-              className="h-[150px]  md:h-[220px] overflow-hidden rounded-md cursor-pointer"
-            >
-              <img
-                loading="lazy"
-                src={img}
-                alt={`Tour ${index + 2}`}
-                className="w-full h-full object-cover hover:scale-110 transition duration-500"
-              />
-            </div>
-          ))}
-        </div>
-      </section>
-    </>
+        ))}
+      </div>
+    </section>
   );
 }

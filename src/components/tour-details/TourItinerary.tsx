@@ -36,7 +36,7 @@ export default function TourItinerary({ itinerary }: Props) {
 
               <div className="bg-white rounded-2xl shadow-lg overflow-hidden border border-slate-300">
 
-                <button
+                <button   
                   onClick={() =>
                     setOpenDay(isOpen ? 0 : day.day)
                   }
@@ -65,7 +65,7 @@ export default function TourItinerary({ itinerary }: Props) {
                 <div
                   className={`transition-all duration-700 overflow-hidden ${
                     isOpen
-                      ? "max-h-[500px]"
+                      ? "max-h-[2000px]"
                       : "max-h-0"
                   }`}
                 >

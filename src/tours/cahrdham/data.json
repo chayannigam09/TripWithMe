@@ -358,8 +358,30 @@
     }
   ],
   "batches": [
-    "Every Friday",
-    "Every Saturday",
+    "07 jan 2027",
+    "20 jan 2027",
+    "10 feb 2027",
+    "25 feb 2027",
+    "5 mar 2027",
+    "25 mar 2027",
+    "12 apr 2027",
+    "26 apr 2027",
+    "1 may 2027",
+    "20 may 2027",
+    "10 jun 2027",
+    "30 jun 2027",
+    "15 jul 2027",
+    "30 jul 2027",
+    "15 agu 2027",
+    "30 agu 2027",
+    "5 sep 2027",
+    "25 sep 2027",
+    "11 oct 2027",
+    "25 oct 2027",
+    "10 nov 2027",
+    "20 nov 2027",
+    "12 dec 2027",
+    "30 dec 2027",
     "Custom Dates Available"
   ]
 }
