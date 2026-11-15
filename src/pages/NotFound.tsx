@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom";
-import { MapPinned, Plane } from "lucide-react";
+﻿import { Link } from "react-router-dom";
+import { MapPinned } from "lucide-react";
 
 export default function NotFound() {
   return (
@@ -33,14 +33,14 @@ export default function NotFound() {
             to="/"
             className="px-6 py-3 rounded-md text-white font-semibold bg-orange-500 hover:scale-105 transition"
           >
-            🏠 Back to Home
+            ðŸ  Back to Home
           </Link>
 
           <Link
             to="/popular-tours"
             className="px-6 py-3 rounded-md border border-gray-300 bg-white hover:bg-gray-100 transition font-semibold"
           >
-            ✈️ Explore Tours
+            âœˆï¸ Explore Tours
           </Link>
         </div>
       </div>

@@ -1,0 +1,314 @@
+{
+    "id": 1,
+    "slug": "KULLU – MANALI",
+    "title": "Kullu–Manali – The Himalayan Paradise",
+    "location": "Himachal pradesh",
+    "duration": "5 Nights / 6 Days",
+    "price": 6499,
+    "rating": 3.5,
+    "reviews": 112,
+    "pickup": "Delhi",
+    "thumbnail": "/tours/manali/2.jpg",
+    "gallery": [
+        "/tours/manali/12.jpg",
+        "/tours/manali/2.jpg",
+        "/tours/manali/3.jpg",
+        "/tours/manali/4.jpg",
+        "/tours/manali/5.jpg"
+    ],
+"highlights": [
+    "Hadimba Devi Temple",
+    "Solang Valley",
+    "Atal Tunnel & Sissu",
+    "Naggar Castle",
+    "Kasol & Parvati Valley",
+    "Manikaran Sahib Gurudwara",
+    "Manali Mall Road"
+],
+          
+    "overview": "Escape to the mountains with TripWithMe on an unforgettable 5 Nights / 6 Days group trip through Kullu, Manali, and Kasol. Explore Hadimba Devi Temple, Van Vihar, Manali Mall Road, Solang Valley, Atal Tunnel, and the scenic landscapes around Sissu or Khoksar when weather and road conditions permit. Visit Naggar Castle in Kullu Valley, enjoy the peaceful riverside atmosphere of Kasol, and seek blessings at Manikaran Sahib Gurudwara. Optional adventure activities such as river rafting and paragliding may be available at additional cost. Travel with fellow explorers, make new friends, and create beautiful Himalayan memories.",
+         "itinerary": [
+        {
+            "day": 1,
+            "title": "Delhi Departure | Overnight Journey to Manali",
+            "activities": [
+                "Meet your fellow travelers at the designated boarding point in Delhi and get ready for an exciting Himalayan adventure.",
+                "Board your Volvo bus or traveler and begin your journey towards the beautiful mountains of Himachal Pradesh.",
+                "Enjoy music, DJ, fun activities, group bonding, and memorable moments with fellow travelers during the journey.",
+                "Relax during the overnight journey as you travel towards Manali."
+            ]
+        },
+        {
+            "day": 2,
+            "title": "Arrival in Manali | Local Sightseeing",
+            "activities": [
+                "Arrive in Manali and transfer to your hotel for check-in, subject to hotel availability.",
+                "Freshen up, enjoy breakfast, and get ready to explore the beautiful hill town of Manali.",
+                "Visit the famous Hadimba Devi Temple, surrounded by beautiful cedar forests and peaceful mountain views.",
+                "Explore Van Vihar, a beautiful nature park perfect for relaxing and enjoying the greenery.",
+                "Visit the vibrant Mall Road for shopping, local food, and exploring Manali's lively atmosphere.",
+                "Enjoy your visit to Club House, a popular spot for leisure and recreational activities.",
+                "Return to the hotel, enjoy dinner, and relax with a comfortable overnight stay."
+            ]
+        },
+        {
+            "day": 3,
+            "title": "Solang Valley Excursion | Atal Tunnel & Sissu",
+            "activities": [
+                "Wake up to the refreshing mountain atmosphere and enjoy breakfast at the hotel.",
+                "Head towards Solang Valley, famous for its breathtaking Himalayan landscapes and adventure activities.",
+                "Enjoy the beautiful mountain scenery and take photographs against the stunning natural backdrop.",
+                "Continue towards the iconic Atal Tunnel, subject to weather, road conditions, and local permissions.",
+                "If conditions permit, explore the beautiful village of Sissu or Khoksar and enjoy its scenic mountain views.",
+                "Adventure activities, if available, can be enjoyed at additional charges.",
+                "Return to the hotel in Manali, enjoy dinner, and relax overnight."
+            ]
+        },
+        {
+            "day": 4,
+            "title": "Naggar Castle & Kullu | Transfer to Kasol",
+            "activities": [
+                "Start your morning with breakfast at the hotel and complete the checkout formalities.",
+                "Travel towards the beautiful Kullu Valley and enjoy scenic views along the way.",
+                "Visit the historic Naggar Castle, known for its traditional Himalayan architecture and mountain views.",
+                "Enjoy optional adventure activities such as river rafting and paragliding, subject to availability and at an additional cost.",
+                "Continue your journey towards Kasol, a beautiful destination nestled along the Parvati River.",
+                "Check in to your hotel or camp and enjoy the peaceful mountain surroundings.",
+                "Have dinner and relax during your overnight stay in Kasol."
+            ]
+        },
+        {
+            "day": 5,
+            "title": "Kasol Exploration | Manikaran Sahib | Return to Delhi",
+            "activities": [
+                "Wake up to the peaceful atmosphere of Kasol and enjoy breakfast at your hotel or camp.",
+                "Complete the checkout formalities and get ready to explore the spiritual and scenic beauty of the region.",
+                "Visit the sacred Manikaran Sahib Gurudwara, renowned for its spiritual significance and natural hot springs.",
+                "Explore Kasol Local Market, browse local shops, and enjoy the charming atmosphere of this popular mountain destination.",
+                "Spend some free time capturing photographs, enjoying the riverside views, and collecting memories of your trip.",
+                "As per the scheduled departure time, board your Volvo bus or traveler for the overnight return journey to Delhi."
+            ]
+        },
+        {
+            "day": 6,
+            "title": "Arrival in Delhi | End of a Memorable Trip",
+            "activities": [
+                "Arrive in Delhi after your overnight journey from Himachal Pradesh, subject to traffic and travel conditions.",
+                "Say goodbye to your fellow travelers with beautiful memories, amazing photographs, and new friendships.",
+                "Thank you for being a part of the TripWithMe family. We look forward to exploring more destinations with you.",
+                "Travel More • Explore More • Live More!"
+            ]
+        }
+    ],
+    "inclusions": [
+        "Experienced Trip Captain (For groups of 12+ travelers).",
+        "Train Journey (As per selected package).",
+        "2 Night stay in a verified hotel & one night stay camp.",
+        "Music Night & Group Bonding Activities.",
+        "3 Breakfasts & 3 Dinners.",
+        "Comfortable local transportation for sightseeing.",
+        "All toll taxes, parking charges & permits."
+    ],
+    "exclusions": [
+        "Entry fees to attractions and monuments.",
+        "Lunch, snacks, beverages & personal food expenses.",
+        "Personal shopping and other individual expenses.",
+        "Medical, emergency & travel insurance expenses.",
+        "5% GST (if applicable).",
+        "Anything not specifically mentioned in the 'Inclusions' section."
+    ],
+    "thingsToKnow": [
+        {
+            "title": "Trip Captain",
+            "description": "Friendly local tour leader."
+        },
+        {
+            "title": "Transport",
+            "description": "Everyday commute by Tempo Traveller/SUV."
+        },
+        {
+            "title": "Cancellation",
+            "description": "Booking is non-refundable after confirmation."
+        }
+    ],
+    "thingsToCarry": [
+        {
+            "title": "Clothing",
+            "description": "Comfortable clothes ."
+        },
+        {
+            "title": "Footwear",
+            "description": "Good trekking shoes."
+        },
+        {
+            "title": "Documents",
+            "description": "Government ID proof, Student ID."
+        }
+    ],
+    "importantNotes": [
+        {
+            "type": "danger",
+            "text": "Booking is non-refundable after confirmation."
+        },
+        {
+            "type": "warning",
+            "text": "Trips run on schedule. Please report on time, Itinerary may change due to weather conditions."
+        },
+        {
+            "type": "success",
+            "text": "Respect local culture and nature."
+        },
+        {
+            "type": "info",
+            "text": "Check-in and check-out timings depend on hotel policy, Follow your trip captain's instructions."
+        }
+    ],
+    "policies": [
+        {
+            "title": "Cancellation Policy",
+            "content": "If cancellations are made 60-30 days before the trip's start date, 10% of the total tour cost will be charged as cancellation fees. If cancellations are made 30 days before the trip's start date, 50% of the total tour cost will be charged as cancellation fees. If cancellations are made within 0-30 days before the trip's start date, 100% of the total tour cost will be charged as cancellation fees. In case of unforeseen weather conditions or government restrictions, certain activities may be canceled, and in such cases, the operator will try his best to provide an alternate feasible activity. However, no refund will be provided for the same."
+        },
+        {
+            "title": "Booking Policy",
+            "content": "Book your seats by depositing an advance of 50% per head to the below account and the rest has to be paid 1 day prior to the time of departure of the trip. Send Payment screenshot on the below numbers. And fill out the form which will be provided by us. Then booking will confirm accordingly.If you want to book any specific seat in the traveler then you have to pay Rs.300/- extra amount for booking specific seat number, (seats will be provided subject to availability basis)/ First come first basis."
+        },
+        {
+            "title": "Privacy Policy",
+            "content": "Your personal data is secure with us and only used for booking and communication purposes. We never share data with third parties."
+        },
+        {
+            "title": "Travel & Safety Policy",
+            "content": "We prioritize traveler safety and follow all government-issued travel advisories and guidelines."
+        },
+        {
+            "title": "Late Arrival Policy",
+            "content": "Participants arriving late may not be eligible for refunds or adjustments. Please arrive 15 minutes early."
+        },
+        {
+            "title": "Group Size Policy",
+            "content": "Some packages have a maximum group size limit. Please check the Group Size section for details."
+        },
+        {
+            "title": "Travel Insurance Policy",
+            "content": "While not mandatory, we highly recommend travel insurance for safety and peace of mind during your trip."
+        },
+        {
+            "title": "Prohibited Substances Policy",
+            "content": "TripWithMe strictly prohibits the use of narcotics, banned substances, weapons, fireworks, or toxic materials during tours. Violation may result in immediate removal without refund and possible legal action."
+        },
+        {
+            "title": "Accommodation Policy",
+            "content": "The amount given is based on a quad-sharing basis. An extra mattress will be provided for the extra person."
+        },
+        {
+            "title": "Eviction Policy",
+            "content": "The organizers reserve the right to evict any participant at any time without any refund if their actions violate any tour rules."
+        },
+        {
+            "title": "Safety Outside Premises",
+            "content": "TripWithMe is not responsible for your safety or whereabouts if you are outside the resort or campsite premises."
+        },
+        {
+            "title": "Damage to Property",
+            "content": "Any loss or damage to hotel/resort or campsite property, such as beds, windows, doors, pillows, or mattresses, will be charged at full replacement cost."
+        },
+        {
+            "title": "Loss or Theft",
+            "content": "We are not responsible for the loss, theft, or damage of personal belongings during the trip."
+        },
+        {
+            "title": "Health Responsibility",
+            "content": "TripWithMe is not liable for illnesses, injuries, or health issues that may occur while traveling."
+        },
+        {
+            "title": "ID Requirement",
+            "content": "All guests must carry a valid government-issued ID card. Outside visitors must be pre-notified to management."
+        },
+        {
+            "title": "Booking Confirmation",
+            "content": "Slots at the hotel/resort or accommodation are confirmed only after receipt of full payment."
+        },
+        {
+            "title": "Injury & Liability",
+            "content": "Management accepts no responsibility for injuries or the loss/theft of personal property during the tour."
+        },
+        {
+            "title": "Transport Breakdown",
+            "content": "In case of any transport breakdown during the journey, participants will need to wait until repairs are completed. No backup transport will be provided."
+        },
+        {
+            "title": "Environmental Policy",
+            "content": "We request all participants to cooperate in keeping the environment clean, safe, and free from litter."
+        },
+        {
+            "title": "Registrations and Tickets Policy",
+            "content": "Registrations and tickets once booked cannot be exchanged, canceled, or refunded."
+        },
+        {
+            "title": "Event Rules",
+            "content": "Bonfire, music nights, and other activities are subject to local authority regulations and hotel/campsite policies."
+        },
+        {
+            "title": "Seating Arrangement",
+            "content": "Seats on buses, tempo travellers, or other vehicles are allocated on a first-come, first-served basis."
+        },
+        {
+            "title": "Enjoy & Respect",
+            "content": "Respect fellow travelers, follow all rules, and make the most of your adventure experience."
+        },
+        {
+            "title": "Important Note",
+            "content": "Numerous factors such as weather conditions, road situations, operational issues, and the physical ability of participants may cause itinerary changes. We reserve the right to modify schedules in the interest of safety, comfort, and the overall wellbeing of participants."
+        }
+    ],
+
+"faq": [
+  {
+    "question": "What are the main attractions covered in this Kullu-Manali-Kasol trip?",
+    "answer": "Explore the beautiful Himalayan destinations with TripWithMe! This trip covers Manali's famous Hadimba Devi Temple, Van Vihar, Mall Road, Club House, Solang Valley, Atal Tunnel, and the scenic beauty of Sissu (subject to weather and road conditions). You will also visit Kullu, Naggar Castle, Kasol, and the sacred Manikaran Sahib Gurudwara. Enjoy breathtaking mountain views, local culture, adventure, and unforgettable group travel experiences."
+  },
+  {
+    "question": "What is the best time to visit Kullu, Manali, and Kasol?",
+    "answer": "Kullu, Manali, and Kasol are beautiful destinations throughout the year. March to June is ideal for pleasant weather, sightseeing, and outdoor activities. December to February is popular for experiencing winter landscapes and possible snowfall, depending on weather conditions. July to September brings monsoon rains, so travel plans and sightseeing may be affected by road conditions. Always check the weather before your journey."
+  },
+  {
+    "question": "What activities can I enjoy during this trip?",
+    "answer": "🏔️ Enjoy breathtaking Himalayan mountain views 🎿 Explore Solang Valley and experience optional adventure activities 🌉 Travel through the scenic Atal Tunnel 📸 Capture beautiful moments in Manali and Kasol 🙏 Visit Manikaran Sahib Gurudwara 🛍️ Explore Mall Road and Kasol's local market 🤝 Meet new people, enjoy group bonding, and create unforgettable memories. Adventure activities such as paragliding and river rafting are optional and may cost extra."
+  },
+  {
+    "question": "How do I reach the starting point of the trip?",
+    "answer": "The trip starts from Delhi, with an overnight journey towards Manali by Volvo bus or traveler, as per the selected package arrangements. Please check your booking confirmation for the exact boarding point, departure time, and transport details. Travelers need to arrange their own transportation to the designated Delhi boarding point unless otherwise specified in the package."
+  },
+  {
+    "question": "Can this Kullu-Manali-Kasol trip be customized?",
+    "answer": "Yes! TripWithMe can help you explore customized travel options for couples, families, friends, and private groups. You can discuss your preferred travel dates, accommodation, sightseeing, and adventure activities with our team. Customization and additional services may affect the package price. Contact TripWithMe to plan a memorable Himalayan getaway that suits your interests and budget."
+  }
+],
+
+    "batches": [
+    "10 jan 2027",
+    "30 jan 2027",
+    "20 feb 2027",
+    "25 feb 2027",
+    "15 mar 2027",
+    "15 mar 2027",
+    "02 apr 2027",
+    "26 apr 2027",
+    "01 may 2027",
+    "20 may 2027",
+    "10 jun 2027",
+    "30 jun 2027",
+    "15 jul 2027",
+    "30 jul 2027",
+    "15 agu 2027",
+    "30 agu 2027",
+    "5 sep 2027",
+    "25 sep 2027",
+    "11 oct 2027",
+    "15 oct 2027",
+    "10 nov 2027",
+    "01 nov 2027",
+    "12 dec 2027",
+    "20 dec 2027"
+    ]
+}

@@ -1,8 +1,7 @@
-import { useMemo, useState } from "react";
+﻿import { useMemo, useState } from "react";
 import TourFilters from "../components/tours/TourFilter";
 import TourCard from "../components/tours/TourCard";
 import { tours } from "../tours";
-import { PlaneTakeoff } from "lucide-react";
 import TourNotFound from "../components/tours/TourNotFound";
 
 export default function PopularTours() {

@@ -1,9 +1,8 @@
-import { createBrowserRouter } from "react-router-dom";
+﻿import { createBrowserRouter } from "react-router-dom";
 import Home from "../pages/Home";
 import PopularTours from "../pages/PopularTours";
 import MainLayout from "../layouts/MainLayouts";
 import TourDetails from "../pages/TourDetails";
-import TourPolicies from "../components/tour-details/Policies";
 import { Policy } from "../pages/Policy";
 import { ContactUs } from "../pages/ContactUs";
 import NotFound from "../pages/NotFound";
@@ -22,15 +21,15 @@ export const router = createBrowserRouter([
       },
       {
         path: "/tour-details/:slug",
-        element: <TourDetails />
+        element: <TourDetails />,
       },
       {
         path: "/policies",
-        element: <Policy />
+        element: <Policy />,
       },
       {
         path: "/contact",
-        element: <ContactUs />
+        element: <ContactUs />,
       },
       {
         path: "*",

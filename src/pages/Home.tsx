@@ -1,11 +1,8 @@
-import Header from "../components/Header";
-import Hero from "../components/Hero";
+﻿import Hero from "../components/Hero";
 import Services from "../components/Services";
-import Destinations from "../components/Destinations";
 import About from "../components/About";
 import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
-import Footer from "../components/Footer";
 import { FaWhatsapp } from "react-icons/fa";
 import {tours} from "../tours";
 import HomePopularTours from "../components/HomePopularTour";
@@ -13,15 +10,12 @@ import HomePopularTours from "../components/HomePopularTour";
 const Home = () => {
   return (
     <div className="min-h-screen">
-      {/* <Header /> */}
       <Hero />
-      <Services />
-      {/* <Destinations /> */}
       <HomePopularTours tours={tours} />
+      <Services />
       <About />
       <Testimonials />
       <Contact />
-      {/* <Footer /> */}
       <a
               href={`https://wa.me/917583869015?text=${encodeURIComponent(
                 `Hi TripWithMe 👋
